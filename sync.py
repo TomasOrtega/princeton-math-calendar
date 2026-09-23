@@ -45,10 +45,13 @@ def transform(source: bytes) -> tuple[bytes, int]:
 
         title = html.unescape(str(event["SUMMARY"])).strip()
         speaker = html.unescape(str(event.pop("SPEAKER", ""))).strip()
+        name = speaker.partition(",")[0].strip()
+        if speaker and title == speaker:
+            title = name
         replace(
             event,
             "SUMMARY",
-            f"{speaker} — {title}" if speaker and speaker != title else title,
+            f"{name} — {title}" if name and name != title else title,
         )
         if speaker:
             description = str(event.get("DESCRIPTION", "")).strip()

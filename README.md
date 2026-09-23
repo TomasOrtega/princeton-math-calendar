@@ -1,7 +1,7 @@
 # Princeton Math Calendar
 
 Adds speaker names to [Princeton's math calendar](https://www.math.princeton.edu/events/calendar).
-Events appear as `Speaker, affiliation — Talk title`.
+Events appear as `Speaker — Talk title`, with the speaker's affiliation in the description.
 
 **[Subscribe](https://tomasortega.net/princeton-math-calendar/)** ·
 **[Calendar feed](https://tomasortega.net/princeton-math-calendar/calendar.ics)**

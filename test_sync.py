@@ -33,11 +33,32 @@ class FeedTests(unittest.TestCase):
         self.assertEqual(count, 1)
         self.assertEqual(
             str(event["SUMMARY"]),
-            "Peter Scholze, Bonn & MPI — Could all vector spaces be reflexive?",
+            "Peter Scholze — Could all vector spaces be reflexive?",
         )
         self.assertEqual(str(event["UID"]), "event19413+0@math.princeton.edu")
         self.assertEqual(str(event["LOCATION"]), "Fine Hall 314")
         self.assertIn("Peter Scholze, Bonn & MPI", str(event["DESCRIPTION"]))
+
+    def test_affiliation_stays_in_description(self):
+        for speaker, name in [
+            ("Felix Otto, Minerva Visitor, MPI, Leipzig", "Felix Otto"),
+            ("David Persson , NYU", "David Persson"),
+            ("Joakim Færgeman", "Joakim Færgeman"),
+        ]:
+            with self.subTest(speaker=speaker):
+                source = feed(extra="DESCRIPTION:Existing abstract\r\n").replace(
+                    b"Peter Scholze, Bonn &amp; MPI", speaker.encode()
+                )
+                result, _ = transform(source)
+                event = Calendar.from_ical(result).walk("VEVENT")[0]
+                self.assertEqual(
+                    str(event["SUMMARY"]),
+                    f"{name} — Could all vector spaces be reflexive?",
+                )
+                self.assertEqual(
+                    str(event["DESCRIPTION"]),
+                    f"Speaker: {speaker}\n\nExisting abstract",
+                )
 
     def test_local_times_follow_daylight_saving(self):
         for start, end, hour in [
@@ -86,11 +107,14 @@ class FeedTests(unittest.TestCase):
             str(Calendar.from_ical(result).walk("VEVENT")[0]["SUMMARY"]),
             "Could all vector spaces be reflexive?",
         )
-        result, _ = transform(feed(title="Peter Scholze, Bonn &amp; MPI"))
-        self.assertEqual(
-            str(Calendar.from_ical(result).walk("VEVENT")[0]["SUMMARY"]),
-            "Peter Scholze, Bonn & MPI",
-        )
+        for title in ("Peter Scholze, Bonn &amp; MPI", "Peter Scholze"):
+            with self.subTest(title=title):
+                result, _ = transform(feed(title=title))
+                event = Calendar.from_ical(result).walk("VEVENT")[0]
+                self.assertEqual(str(event["SUMMARY"]), "Peter Scholze")
+                self.assertEqual(
+                    str(event["DESCRIPTION"]), "Speaker: Peter Scholze, Bonn & MPI"
+                )
 
     def test_rejects_bad_feeds(self):
         for source in [
