@@ -1,0 +1,2 @@
+# iCalendar folding can leave significant spaces before CRLF.
+*.ics -text -whitespace

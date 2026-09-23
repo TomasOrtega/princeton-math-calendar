@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Princeton Math Calendar</title>
+<style>
+  body { max-width: 42rem; margin: 4rem auto; padding: 0 1rem; font: 1.1rem/1.6 system-ui; color: #202020; }
+  h1 { line-height: 1.2; }
+  a { color: #9b3e00; }
+  input { box-sizing: border-box; width: 100%; padding: .8rem; font: inherit; }
+</style>
+<h1>Princeton Math Calendar</h1>
+<p>Department events with speakers and talk titles, refreshed daily from
+  <a href="https://www.math.princeton.edu/events/calendar">Princeton Mathematics</a>.</p>
+<p><label for="feed">Calendar subscription URL</label><br>
+  <input id="feed" readonly aria-label="Calendar subscription URL"></p>
+<p><strong>Google Calendar:</strong> On a computer, choose Other calendars → + → From URL,
+  paste the URL above, and click Add calendar.</p>
+<p><strong>Outlook:</strong> Choose Add calendar → Subscribe from web, paste the URL,
+  name the calendar, and click Import.</p>
+<p>Subscribe by URL to receive updates. Each calendar app controls when it refreshes.
+  Remove your original Princeton subscription if you want to avoid duplicate events.</p>
+<p><a href="calendar.ics">Download calendar</a> · <a href="sync-status.json">Last successful refresh</a> ·
+  <a href="https://github.com/TomasOrtega/princeton-math-calendar">Source code</a></p>
+<p><small>Unofficial feed. Event information comes from Princeton Mathematics.</small></p>
+<script>
+  const field = document.querySelector('#feed');
+  field.value = new URL('calendar.ics', window.location.href).href;
+  field.addEventListener('click', () => field.select());
+</script>
+</html>

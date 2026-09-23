@@ -1,0 +1,889 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Drupal iCal API//EN
+METHOD:PUBLISH
+X-WR-CALNAME:Princeton Math — Speakers & Talks
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Hongjian Yang\, Stanford University — TBA
+DTSTART:20261008T203000Z
+DTEND:20261008T213000Z
+DTSTAMP:20261008T203000Z
+UID:event19564+0@math.princeton.edu
+DESCRIPTION:Speaker: Hongjian Yang\, Stanford University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yiqi Huang\, MIT — TBA
+DTSTART:20261118T200000Z
+DTEND:20261118T210000Z
+DTSTAMP:20261118T200000Z
+UID:event19563+0@math.princeton.edu
+DESCRIPTION:Speaker: Yiqi Huang\, MIT
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilya Shkredov\, Purdue University — TBA
+DTSTART:20261021T203000Z
+DTEND:20261021T213000Z
+DTSTAMP:20261021T203000Z
+UID:event19562+0@math.princeton.edu
+DESCRIPTION:Speaker: Ilya Shkredov\, Purdue University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joakim Færgeman — What's Happening in Fine Hall
+DTSTART:20260929T160500Z
+DTEND:20260929T170000Z
+DTSTAMP:20260929T160500Z
+UID:event19561+0@math.princeton.edu
+DESCRIPTION:Speaker: Joakim Færgeman
+LOCATION:Fine Hall Common Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hao Peng\, Princeton — The Beilinson–Bloch–Kato conjecture f
+ or polarized motives.
+DTSTART:20261001T193000Z
+DTEND:20261001T203000Z
+DTSTAMP:20261001T193000Z
+UID:event19559+0@math.princeton.edu
+DESCRIPTION:Speaker: Hao Peng\, Princeton
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felix Otto\, Minerva Distinguished Visitor\, & Max-Planck Institut
+ e for Mathematics in the Sciences\, Leipzig — TBD
+DTSTART:20261117T200000Z
+DTEND:20261117T210000Z
+DTSTAMP:20261117T200000Z
+UID:event19558+0@math.princeton.edu
+DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
+ anck Institute for Mathematics in the Sciences\, Leipzig
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felix Otto\, Minerva Distinguished Visitor\, & Max-Planck Institut
+ e for Mathematics in the Sciences\, Leipzig — TBD
+DTSTART:20261103T200000Z
+DTEND:20261103T210000Z
+DTSTAMP:20261103T200000Z
+UID:event19557+0@math.princeton.edu
+DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
+ anck Institute for Mathematics in the Sciences\, Leipzig
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Felix Otto\, Minerva Distinguished Visitor\, & Max-Planck Institut
+ e for Mathematics in the Sciences\, Leipzig — TBD
+DTSTART:20261027T190000Z
+DTEND:20261027T200000Z
+DTSTAMP:20261027T190000Z
+UID:event19556+0@math.princeton.edu
+DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
+ anck Institute for Mathematics in the Sciences\, Leipzig
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alp Muyesser\, Oxford — TBA
+DTSTART:20261119T200000Z
+DTEND:20261119T210000Z
+DTSTAMP:20261119T200000Z
+UID:event19554+0@math.princeton.edu
+DESCRIPTION:Speaker: Alp Muyesser\, Oxford
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hung-Hsun (Hans) Yu\, Princeton — TBA
+DTSTART:20261029T190000Z
+DTEND:20261029T200000Z
+DTSTAMP:20261029T190000Z
+UID:event19553+0@math.princeton.edu
+DESCRIPTION:Speaker: Hung-Hsun (Hans) Yu\, Princeton
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zixuan Xu\, Princeton — Improved lower bound on hypercube edge s
+ licing
+DTSTART:20261001T190000Z
+DTEND:20261001T200000Z
+DTSTAMP:20261001T190000Z
+UID:event19552+0@math.princeton.edu
+DESCRIPTION:Speaker: Zixuan Xu\, Princeton
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tianyi Zheng\, UCSD — TBA
+DTSTART:20261201T200000Z
+DTEND:20261201T210000Z
+DTSTAMP:20261201T200000Z
+UID:event19551+0@math.princeton.edu
+DESCRIPTION:Speaker: Tianyi Zheng\, UCSD
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shirshendy Ganguly\, Berkeley — TBA
+DTSTART:20261117T200000Z
+DTEND:20261117T210000Z
+DTSTAMP:20261117T200000Z
+UID:event19550+0@math.princeton.edu
+DESCRIPTION:Speaker: Shirshendy Ganguly\, Berkeley
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ilias Zadik\, Yale — TBA
+DTSTART:20261110T200000Z
+DTEND:20261110T210000Z
+DTSTAMP:20261110T200000Z
+UID:event19549+0@math.princeton.edu
+DESCRIPTION:Speaker: Ilias Zadik\, Yale
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ofer Zeitouni\, Weizmann Institute & Courant Institute — TBA
+DTSTART:20261103T200000Z
+DTEND:20261103T210000Z
+DTSTAMP:20261103T200000Z
+UID:event19548+0@math.princeton.edu
+DESCRIPTION:Speaker: Ofer Zeitouni\, Weizmann Institute & Courant Institut
+ e
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ahmed Bou-Rabee\, University of Pennsylvania — TBA
+DTSTART:20261027T190000Z
+DTEND:20261027T200000Z
+DTSTAMP:20261027T190000Z
+UID:event19547+0@math.princeton.edu
+DESCRIPTION:Speaker: Ahmed Bou-Rabee\, University of Pennsylvania
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romain Panis\, Université Lyon 1 — TBA
+DTSTART:20261006T190000Z
+DTEND:20261006T200000Z
+DTSTAMP:20261006T190000Z
+UID:event19546+0@math.princeton.edu
+DESCRIPTION:Speaker: Romain Panis\, Université Lyon 1
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katy Woo\, ETH — Prime values of polynomials\, on average
+DTSTART:20260923T161000Z
+DTEND:20260923T171000Z
+DTSTAMP:20260923T161000Z
+UID:event19545+0@math.princeton.edu
+DESCRIPTION:Speaker: Katy Woo\, ETH
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kyle Hayden\, Rutgers University-Newark — TBA
+DTSTART:20261015T203000Z
+DTEND:20261015T213000Z
+DTSTAMP:20261015T203000Z
+UID:event19543+0@math.princeton.edu
+DESCRIPTION:Speaker: Kyle Hayden\, Rutgers University-Newark
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qiuyu Ren\, Stanford University — TBA
+DTSTART:20261203T213000Z
+DTEND:20261203T223000Z
+DTSTAMP:20261203T213000Z
+UID:event19539+0@math.princeton.edu
+DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hearing Math with Sandeep Das
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+DTSTAMP:20261014T230000Z
+UID:event19540+0@math.princeton.edu
+DESCRIPTION:Speaker: Hearing Math with Sandeep Das
+LOCATION:Taplin Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gary Guth\, Stanford University — TBA
+DTSTART:20261119T213000Z
+DTEND:20261119T223000Z
+DTSTAMP:20261119T213000Z
+UID:event19538+0@math.princeton.edu
+DESCRIPTION:Speaker: Gary Guth\, Stanford University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dan Cristofaro-Gardiner\, University of Maryland & IAS — Two or 
+ infinity — and beyond
+DTSTART:20260924T203000Z
+DTEND:20260924T213000Z
+DTSTAMP:20260924T203000Z
+UID:event19537+0@math.princeton.edu
+DESCRIPTION:Speaker: Dan Cristofaro-Gardiner\, University of Maryland & IA
+ S
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Rockmore\, Dartmouth — TBA
+DTSTART:20261123T213000Z
+DTEND:20261123T223000Z
+DTSTAMP:20261123T213000Z
+UID:event19534+0@math.princeton.edu
+DESCRIPTION:Speaker: Daniel Rockmore\, Dartmouth
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ankur Moitra\, MIT — TBA
+DTSTART:20261116T213000Z
+DTEND:20261116T223000Z
+DTSTAMP:20261116T213000Z
+UID:event19533+0@math.princeton.edu
+DESCRIPTION:Speaker: Ankur Moitra\, MIT
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ben Raphael\, Princeton — TBA
+DTSTART:20261109T213000Z
+DTEND:20261109T223000Z
+DTSTAMP:20261109T213000Z
+UID:event19532+0@math.princeton.edu
+DESCRIPTION:Speaker: Ben Raphael\, Princeton
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yue Lu\, Harvard — TBA
+DTSTART:20261102T213000Z
+DTEND:20261102T223000Z
+DTSTAMP:20261102T213000Z
+UID:event19531+0@math.princeton.edu
+DESCRIPTION:Speaker: Yue Lu\, Harvard
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Javier Gomez Serrano\, Brown — TBA
+DTSTART:20261026T203000Z
+DTEND:20261026T213000Z
+DTSTAMP:20261026T203000Z
+UID:event19530+0@math.princeton.edu
+DESCRIPTION:Speaker: Javier Gomez Serrano\, Brown
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alexander Vladimirsky\, Cornell — TBA
+DTSTART:20261012T203000Z
+DTEND:20261012T213000Z
+DTSTAMP:20261012T203000Z
+UID:event19529+0@math.princeton.edu
+DESCRIPTION:Speaker: Alexander Vladimirsky\, Cornell
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jason Altschuler\, Princeton — Negative Stepsizes Make Gradient-
+ Descent-Ascent Converge
+DTSTART:20261005T203000Z
+DTEND:20261005T213000Z
+DTSTAMP:20261005T203000Z
+UID:event19528+0@math.princeton.edu
+DESCRIPTION:Speaker: Jason Altschuler\, Princeton
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrew Horning\, Rensselaer Polytechnic Institute — TBA
+DTSTART:20261111T170000Z
+DTEND:20261111T180000Z
+DTSTAMP:20261111T170000Z
+UID:event19527+0@math.princeton.edu
+DESCRIPTION:Speaker: Andrew Horning\, Rensselaer Polytechnic Institute
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Persson \, NYU — The polar express: Optimal matrix sign me
+ thods and their application to the muon algorithm
+DTSTART:20261028T160000Z
+DTEND:20261028T170000Z
+DTSTAMP:20261028T160000Z
+UID:event19526+0@math.princeton.edu
+DESCRIPTION:Speaker: David Persson \, NYU
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Christian Camano\, Caltech — TBA
+DTSTART:20261007T160000Z
+DTEND:20261007T170000Z
+DTSTAMP:20261007T160000Z
+UID:event19525+0@math.princeton.edu
+DESCRIPTION:Speaker: Christian Camano\, Caltech
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roy Lederman\, Yale — The Catastrophic Failure of *the* k-Means 
+ Algorithm in High Dimensions\, and How Hartigan's Algorithm Avoids It
+DTSTART:20260928T203000Z
+DTEND:20260928T213000Z
+DTSTAMP:20260928T203000Z
+UID:event19524+0@math.princeton.edu
+DESCRIPTION:Speaker: Roy Lederman\, Yale
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ruben Ascoli\, Georgia Tech — A reformulation of the discrete co
+ nvexity conjecture via k-thresholds
+DTSTART:20261008T190000Z
+DTEND:20261008T200000Z
+DTSTAMP:20261008T190000Z
+UID:event19521+0@math.princeton.edu
+DESCRIPTION:Speaker: Ruben Ascoli\, Georgia Tech
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aynur Bulut\, Louisiana State University — TBA
+DTSTART:20261008T190000Z
+DTEND:20261008T200000Z
+DTSTAMP:20261008T190000Z
+UID:event19520+0@math.princeton.edu
+DESCRIPTION:Speaker: Aynur Bulut\, Louisiana State University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jonathan Jaquette\, New Jersey Institute of Technology — TBA
+DTSTART:20261001T190000Z
+DTEND:20261001T200000Z
+DTSTAMP:20261001T190000Z
+UID:event19519+0@math.princeton.edu
+DESCRIPTION:Speaker: Jonathan Jaquette\, New Jersey Institute of Technolog
+ y
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leonid Berlyand\, Pennsylvania State University — Stability and 
+ Bifurcations in a Free Boundary PDE Models of Cell Motility
+DTSTART:20260924T190000Z
+DTEND:20260924T200000Z
+DTSTAMP:20260924T190000Z
+UID:event19518+0@math.princeton.edu
+DESCRIPTION:Speaker: Leonid Berlyand\, Pennsylvania State University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donggun Lee\, KIAS — TBA
+DTSTART:20261110T213000Z
+DTEND:20261110T223000Z
+DTSTAMP:20261110T213000Z
+UID:event19517+0@math.princeton.edu
+DESCRIPTION:Speaker: Donggun Lee\, KIAS
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Douglas Ravenel\, University of Rochester — TBA
+DTSTART:20261015T170000Z
+DTEND:20261015T180000Z
+DTSTAMP:20261015T170000Z
+UID:event19516+0@math.princeton.edu
+DESCRIPTION:Speaker: Douglas Ravenel\, University of Rochester
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sid Mathur\, UGA — TBA
+DTSTART:20261027T190000Z
+DTEND:20261027T200000Z
+DTSTAMP:20261027T190000Z
+UID:event19512+0@math.princeton.edu
+DESCRIPTION:Speaker: Sid Mathur\, UGA
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xin Zhou\, Cornell University — TBA
+DTSTART:20261104T200000Z
+DTEND:20261104T210000Z
+DTSTAMP:20261104T200000Z
+UID:event19509+0@math.princeton.edu
+DESCRIPTION:Speaker: Xin Zhou\, Cornell University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Supravat Sarkar\, Princeton — TBA
+DTSTART:20261124T200000Z
+DTEND:20261124T210000Z
+DTSTAMP:20261124T200000Z
+UID:event19506+0@math.princeton.edu
+DESCRIPTION:Speaker: Supravat Sarkar\, Princeton
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serban Cicortas\, New York University — TBA
+DTSTART:20261123T200000Z
+DTEND:20261123T210000Z
+DTSTAMP:20261123T200000Z
+UID:event19505+0@math.princeton.edu
+DESCRIPTION:Speaker: Serban Cicortas\, New York University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Hintz\, Penn State University — TBA
+DTSTART:20261102T200000Z
+DTEND:20261102T210000Z
+DTSTAMP:20261102T200000Z
+UID:event19504+0@math.princeton.edu
+DESCRIPTION:Speaker: Peter Hintz\, Penn State University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junyan Zhao\, U. Maryland — TBA
+DTSTART:20261117T200000Z
+DTEND:20261117T210000Z
+DTSTAMP:20261117T200000Z
+UID:event19503+0@math.princeton.edu
+DESCRIPTION:Speaker: Junyan Zhao\, U. Maryland
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saket Shah\, U. Michigan — TBA
+DTSTART:20261201T200000Z
+DTEND:20261201T210000Z
+DTSTAMP:20261201T200000Z
+UID:event19502+0@math.princeton.edu
+DESCRIPTION:Speaker: Saket Shah\, U. Michigan
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Patrick Brosnan\, U. Maryland — TBA
+DTSTART:20261110T200000Z
+DTEND:20261110T210000Z
+DTSTAMP:20261110T200000Z
+UID:event19501+0@math.princeton.edu
+DESCRIPTION:Speaker: Patrick Brosnan\, U. Maryland
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alessio Bottini\, Imperial — TBA
+DTSTART:20261103T200000Z
+DTEND:20261103T210000Z
+DTSTAMP:20261103T200000Z
+UID:event19500+0@math.princeton.edu
+DESCRIPTION:Speaker: Alessio Bottini\, Imperial
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Junliang Shen\, Yale — TBA
+DTSTART:20261013T190000Z
+DTEND:20261013T200000Z
+DTSTAMP:20261013T190000Z
+UID:event19499+0@math.princeton.edu
+DESCRIPTION:Speaker: Junliang Shen\, Yale
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Satriano\, U. Waterloo — TBA
+DTSTART:20261006T210000Z
+DTEND:20261006T220000Z
+DTSTAMP:20261006T210000Z
+UID:event19498+0@math.princeton.edu
+DESCRIPTION:Speaker: Matthew Satriano\, U. Waterloo
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sam Grushevsky\, Stony Brook — TBA
+DTSTART:20260929T190000Z
+DTEND:20260929T200000Z
+DTSTAMP:20260929T190000Z
+UID:event19497+0@math.princeton.edu
+DESCRIPTION:Speaker: Sam Grushevsky\, Stony Brook
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eran Nevo\, Hebrew University — TBA
+DTSTART:20261112T200000Z
+DTEND:20261112T210000Z
+DTSTAMP:20261112T200000Z
+UID:event19495+0@math.princeton.edu
+DESCRIPTION:Speaker: Eran Nevo\, Hebrew University
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gigliola Staffilani\, MIT — Special Colloquium - The Study of Wa
+ ve Turbulence: A Meeting Ground for Mathematical  Techniques
+DTSTART:20261029T203000Z
+DTEND:20261029T213000Z
+DTSTAMP:20261029T203000Z
+UID:event19490+0@math.princeton.edu
+DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Federico Scavia\, Université Sorbonne Paris Nord — TBA
+DTSTART:20261123T203000Z
+DTEND:20261123T213000Z
+DTSTAMP:20261123T203000Z
+UID:event19488+0@math.princeton.edu
+DESCRIPTION:Speaker: Federico Scavia\, Université Sorbonne Paris Nord
+LOCATION:IAS - Simonyi Hall 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haoyang Guo\, University of Minnesota — TBA
+DTSTART:20261012T193000Z
+DTEND:20261012T203000Z
+DTSTAMP:20261012T193000Z
+UID:event19487+0@math.princeton.edu
+DESCRIPTION:Speaker: Haoyang Guo\, University of Minnesota
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gyujin Oh\, Columbia University — TBA
+DTSTART:20261116T203000Z
+DTEND:20261116T213000Z
+DTSTAMP:20261116T203000Z
+UID:event19484+0@math.princeton.edu
+DESCRIPTION:Speaker: Gyujin Oh\, Columbia University
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chen Wan\, Rutgers — A relative trace formula identity for non-t
+ empered spherical varieties
+DTSTART:20261015T193000Z
+DTEND:20261015T203000Z
+DTSTAMP:20261015T193000Z
+UID:event19482+0@math.princeton.edu
+DESCRIPTION:Speaker: Chen Wan\, Rutgers
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Loebl\, Charles University — Shapley meets Tutte
+DTSTART:20261015T190000Z
+DTEND:20261015T200000Z
+DTSTAMP:20261015T190000Z
+UID:event19479+0@math.princeton.edu
+DESCRIPTION:Speaker: Martin Loebl\, Charles University
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan Miranda\, IMPA — TBA
+DTSTART:20261028T190000Z
+DTEND:20261028T200000Z
+DTSTAMP:20261028T190000Z
+UID:event19477+0@math.princeton.edu
+DESCRIPTION:Speaker: Ivan Miranda\, IMPA
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charles Collot\, Cergy Paris Université — TBA
+DTSTART:20261130T200000Z
+DTEND:20261130T210000Z
+DTSTAMP:20261130T200000Z
+UID:event19469+0@math.princeton.edu
+DESCRIPTION:Speaker: Charles Collot\, Cergy Paris Université
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Juhi Jang\, USC — TBA
+DTSTART:20261116T200000Z
+DTEND:20261116T210000Z
+DTSTAMP:20261116T200000Z
+UID:event19468+0@math.princeton.edu
+DESCRIPTION:Speaker: Juhi Jang\, USC
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dominique Maldague\, UCLA & University of Cambridge — TBA
+DTSTART:20261109T200000Z
+DTEND:20261109T210000Z
+DTSTAMP:20261109T200000Z
+UID:event19467+0@math.princeton.edu
+DESCRIPTION:Speaker: Dominique Maldague\, UCLA & University of Cambridge
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simon Brendle\, Columbia — A dimension descent scheme for the po
+ sitive mass theorem in arbitrary dimension
+DTSTART:20261012T190000Z
+DTEND:20261012T200000Z
+DTSTAMP:20261012T190000Z
+UID:event19466+0@math.princeton.edu
+DESCRIPTION:Speaker: Simon Brendle\, Columbia
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sohrab Shahshahani\, University of Massachusetts Amherst — TBA
+DTSTART:20261005T190000Z
+DTEND:20261005T200000Z
+DTSTAMP:20261005T190000Z
+UID:event19465+0@math.princeton.edu
+DESCRIPTION:Speaker: Sohrab Shahshahani\, University of Massachusetts Amhe
+ rst
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thanasis Fokas\, University of Cambridge — Deformations to the C
+ omplex Plane\, Novel Asymptotic Techniques\, and the Large t-Asymptotics o
+ f the Riemann Zeta Function
+DTSTART:20260928T190000Z
+DTEND:20260928T200000Z
+DTSTAMP:20260928T190000Z
+UID:event19464+0@math.princeton.edu
+DESCRIPTION:Speaker: Thanasis Fokas\, University of Cambridge
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melanie Rupflin\, Oxford — TBA
+DTSTART:20261111T200000Z
+DTEND:20261111T210000Z
+DTSTAMP:20261111T200000Z
+UID:event19461+0@math.princeton.edu
+DESCRIPTION:Speaker: Melanie Rupflin\, Oxford
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Li-Huerta\, MIT — TBA
+DTSTART:20261102T203000Z
+DTEND:20261102T213000Z
+DTSTAMP:20261102T203000Z
+UID:event19460+0@math.princeton.edu
+DESCRIPTION:Speaker: Daniel Li-Huerta\, MIT
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ivan Loseu\, Yale — TBA
+DTSTART:20261026T193000Z
+DTEND:20261026T203000Z
+DTSTAMP:20261026T193000Z
+UID:event19458+0@math.princeton.edu
+DESCRIPTION:Speaker: Ivan Loseu\, Yale
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lucas Mason-Brown\, Columbia — TBA
+DTSTART:20261019T193000Z
+DTEND:20261019T203000Z
+DTSTAMP:20261019T193000Z
+UID:event19457+0@math.princeton.edu
+DESCRIPTION:Speaker: Lucas Mason-Brown\, Columbia
+LOCATION:IAS - Simonyi Hall 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sang-Il Oum\, Institute for Basic Science — TBA
+DTSTART:20261105T200000Z
+DTEND:20261105T210000Z
+DTSTAMP:20261105T200000Z
+UID:event19456+0@math.princeton.edu
+DESCRIPTION:Speaker: Sang-Il Oum\, Institute for Basic Science
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jacob Fox\, Stanford — TBA
+DTSTART:20261007T203000Z
+DTEND:20261007T213000Z
+DTSTAMP:20261007T203000Z
+UID:event19452+0@math.princeton.edu
+DESCRIPTION:Speaker: Jacob Fox\, Stanford
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gigliola Staffilani\, MIT — Is there a formula for our personal 
+ success?
+DTSTART:20261030T161000Z
+DTEND:20261030T170000Z
+DTSTAMP:20261030T161000Z
+UID:event19449+0@math.princeton.edu
+DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
+LOCATION:Fine Hall Common Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davesh Maulik\, MIT — Algebraic cycles on hyperkahler varieties
+DTSTART:20261008T193000Z
+DTEND:20261008T203000Z
+DTSTAMP:20261008T193000Z
+UID:event19448+0@math.princeton.edu
+DESCRIPTION:Speaker: Davesh Maulik\, MIT
+LOCATION:McDonnell Hall A01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davesh Maulik\, MIT — Beauville decomposition for families of ab
+ elian varieties.
+DTSTART:20261006T193000Z
+DTEND:20261006T203000Z
+DTSTAMP:20261006T193000Z
+UID:event19447+0@math.princeton.edu
+DESCRIPTION:Speaker: Davesh Maulik\, MIT
+LOCATION:McDonnell Hall A01
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Davesh Maulik\, MIT — The P=W Conjecture
+DTSTART:20261005T193000Z
+DTEND:20261005T203000Z
+DTSTAMP:20261005T193000Z
+UID:event19446+0@math.princeton.edu
+DESCRIPTION:Speaker: Davesh Maulik\, MIT
+LOCATION:McDonnell Hall A02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261120T190000Z
+DTEND:20261120T200000Z
+DTSTAMP:20261120T190000Z
+UID:event19445+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261113T190000Z
+DTEND:20261113T200000Z
+DTSTAMP:20261113T190000Z
+UID:event19444+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+DTSTAMP:20261106T190000Z
+UID:event19443+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261030T180000Z
+DTEND:20261030T190000Z
+DTSTAMP:20261030T180000Z
+UID:event19442+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261016T180000Z
+DTEND:20261016T190000Z
+DTSTAMP:20261016T180000Z
+UID:event19441+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna Erschler\, Minerva Distinguished Visitor & CNRS\, Sorbonne Un
+ iversity — Growth of infinite groups
+DTSTART:20261009T180000Z
+DTEND:20261009T190000Z
+DTSTAMP:20261009T180000Z
+UID:event19440+0@math.princeton.edu
+DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
+ \, Sorbonne University
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noah Kravitz\, Oxford — The structure of sets with few subset su
+ ms
+DTSTART:20260924T190000Z
+DTEND:20260924T200000Z
+DTSTAMP:20260924T190000Z
+UID:event19438+0@math.princeton.edu
+DESCRIPTION:Speaker: Noah Kravitz\, Oxford
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katharine Woo\, ETH Zurich — Arithmetic consequences of additive
+  combinatorics
+DTSTART:20260924T204500Z
+DTEND:20260924T214500Z
+DTSTAMP:20260924T204500Z
+UID:event19427+0@math.princeton.edu
+DESCRIPTION:Speaker: Katharine Woo\, ETH Zurich
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simon Brendle\, Columbia University — Systolic inequalities and 
+ the Horowitz-Myers conjecture
+DTSTART:20261014T190000Z
+DTEND:20261014T200000Z
+DTSTAMP:20261014T190000Z
+UID:event19426+0@math.princeton.edu
+DESCRIPTION:Speaker: Simon Brendle\, Columbia University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Douglas Stryker\, ETH Zurich — Stable 2-systole bounds in positi
+ ve scalar curvature
+DTSTART:20260923T190000Z
+DTEND:20260923T200000Z
+DTSTAMP:20260923T190000Z
+UID:event19425+0@math.princeton.edu
+DESCRIPTION:Speaker: Douglas Stryker\, ETH Zurich
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jie Qing\, UCSC — Potentials for sub-Laplacians and geometric ap
+ plications
+DTSTART:20260930T190000Z
+DTEND:20260930T200000Z
+DTSTAMP:20260930T190000Z
+UID:event19424+0@math.princeton.edu
+DESCRIPTION:Speaker: Jie Qing\, UCSC
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Akhil Mathew\, University of Chicago — TBA
+DTSTART:20261105T180000Z
+DTEND:20261105T190000Z
+DTSTAMP:20261105T180000Z
+UID:event19422+0@math.princeton.edu
+DESCRIPTION:Speaker: Akhil Mathew\, University of Chicago
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joseph Ayoub\, University of Zurich — TBA
+DTSTART:20261119T180000Z
+DTEND:20261119T190000Z
+DTSTAMP:20261119T180000Z
+UID:event19417+0@math.princeton.edu
+DESCRIPTION:Speaker: Joseph Ayoub\, University of Zurich
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andrew Baker\, University of Glasgow — TBA
+DTSTART:20261112T180000Z
+DTEND:20261112T190000Z
+DTSTAMP:20261112T180000Z
+UID:event19416+0@math.princeton.edu
+DESCRIPTION:Speaker: Andrew Baker\, University of Glasgow
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oscar Randal-Williams\, Cambridge University — TQFTs v. exotic s
+ pheres
+DTSTART:20261001T170000Z
+DTEND:20261001T180000Z
+DTSTAMP:20261001T170000Z
+UID:event19415+0@math.princeton.edu
+DESCRIPTION:Speaker: Oscar Randal-Williams\, Cambridge University
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Irina Bobkova\, Texas A&M — TBA
+DTSTART:20261029T170000Z
+DTEND:20261029T180000Z
+DTSTAMP:20261029T170000Z
+UID:event19414+0@math.princeton.edu
+DESCRIPTION:Speaker: Irina Bobkova\, Texas A&M
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Scholze\, University of Bonn & Max Planck Institute for Math
+ ematics — Could all vector spaces be reflexive?
+DTSTART:20260924T170000Z
+DTEND:20260924T180000Z
+DTSTAMP:20260924T170000Z
+UID:event19413+0@math.princeton.edu
+DESCRIPTION:Speaker: Peter Scholze\, University of Bonn & Max Planck Insti
+ tute for Mathematics
+LOCATION:
+END:VEVENT
+END:VCALENDAR
