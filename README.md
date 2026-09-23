@@ -3,8 +3,8 @@
 Princeton mathematics events with `Speaker, affiliation — Talk title` as the title.
 Works as a live subscription in Outlook, Google Calendar, and other iCalendar clients.
 
-**[Subscribe](https://tomasortega.github.io/princeton-math-calendar/)** ·
-**[Calendar feed](https://tomasortega.github.io/princeton-math-calendar/calendar.ics)**
+**[Subscribe](https://tomasortega.net/princeton-math-calendar/)** ·
+**[Calendar feed](https://tomasortega.net/princeton-math-calendar/calendar.ics)**
 
 ## How it works
 
@@ -21,7 +21,7 @@ The feed mirrors Princeton's current event list; it is not an archive.
 
 ## Subscribe
 
-Copy the feed URL from the [subscription page](https://tomasortega.github.io/princeton-math-calendar/).
+Copy the feed URL from the [subscription page](https://tomasortega.net/princeton-math-calendar/).
 
 - **Google Calendar:** On a computer, select **Other calendars → + → From URL**, paste the URL,
   and select **Add calendar**. [Google instructions](https://support.google.com/calendar/answer/37100)
