@@ -5,7 +5,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Lily Li — TBA
+SUMMARY:Simon Brendle — TBA
+DTSTART:20261014T203000Z
+DTEND:20261014T213000Z
+DTSTAMP:20261014T203000Z
+UID:event19569+0@math.princeton.edu
+DESCRIPTION:Speaker: Simon Brendle\, Columbia
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lily Li — Finiteness of Anosov and pseudo-Anosov flows on hyperb
+ olic 3-manifolds
 DTSTART:20261001T203000Z
 DTEND:20261001T213000Z
 DTSTAMP:20261001T203000Z
@@ -154,12 +164,12 @@ DESCRIPTION:Speaker: Tianyi Zheng\, UCSD
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shirshendy Ganguly — TBA
+SUMMARY:Shirshendu Ganguly — TBA
 DTSTART:20261117T200000Z
 DTEND:20261117T210000Z
 DTSTAMP:20261117T200000Z
 UID:event19550+0@math.princeton.edu
-DESCRIPTION:Speaker: Shirshendy Ganguly\, Berkeley
+DESCRIPTION:Speaker: Shirshendu Ganguly\, Berkeley
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -191,7 +201,8 @@ DESCRIPTION:Speaker: Ahmed Bou-Rabee\, University of Pennsylvania
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Romain Panis — TBA
+SUMMARY:Romain Panis — On reversing the Simon–Lieb inequality in high-
+ dimensional percolation
 DTSTART:20261006T190000Z
 DTEND:20261006T200000Z
 DTSTAMP:20261006T190000Z
@@ -666,7 +677,7 @@ DESCRIPTION:Speaker: Sang-Il Oum\, Institute for Basic Science
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jacob Fox — TBA
+SUMMARY:Jacob Fox — Arithmetic Ramsey numbers
 DTSTART:20261007T203000Z
 DTEND:20261007T213000Z
 DTSTAMP:20261007T203000Z
@@ -779,7 +790,7 @@ DTSTART:20261014T190000Z
 DTEND:20261014T200000Z
 DTSTAMP:20261014T190000Z
 UID:event19426+0@math.princeton.edu
-DESCRIPTION:Speaker: Simon Brendle\, Columbia University
+DESCRIPTION:Speaker: Simon Brendle\, Columbia
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
