@@ -341,16 +341,6 @@ DESCRIPTION:Speaker: Christian Camano\, Caltech
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roy Lederman — The Catastrophic Failure of *the* k-Means Algorit
- hm in High Dimensions\, and How Hartigan's Algorithm Avoids It
-DTSTART:20260928T203000Z
-DTEND:20260928T213000Z
-DTSTAMP:20260928T203000Z
-UID:event19524+0@math.princeton.edu
-DESCRIPTION:Speaker: Roy Lederman\, Yale
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ruben Ascoli — A reformulation of the discrete convexity conject
  ure via k-thresholds
 DTSTART:20261008T190000Z
@@ -618,17 +608,6 @@ DTSTAMP:20261005T190000Z
 UID:event19465+0@math.princeton.edu
 DESCRIPTION:Speaker: Sohrab Shahshahani\, University of Massachusetts Amhe
  rst
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thanasis Fokas — Deformations to the Complex Plane\, Novel Asymp
- totic Techniques\, and the Large t-Asymptotics of the Riemann Zeta Functio
- n
-DTSTART:20260928T190000Z
-DTEND:20260928T200000Z
-DTSTAMP:20260928T190000Z
-UID:event19464+0@math.princeton.edu
-DESCRIPTION:Speaker: Thanasis Fokas\, University of Cambridge
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
