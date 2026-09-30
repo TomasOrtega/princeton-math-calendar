@@ -5,6 +5,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Nansen Petrosyan — TBA
+DTSTART:20261203T153000Z
+DTEND:20261203T163000Z
+DTSTAMP:20261203T153000Z
+UID:event19572+0@math.princeton.edu
+DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex Suciu — TBA
+DTSTART:20261005T143000Z
+DTEND:20261005T153000Z
+DTSTAMP:20261005T143000Z
+UID:event19571+0@math.princeton.edu
+DESCRIPTION:Speaker: Alex Suciu\, Northeastern University
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Javier Gómez-Serrano — TBA
+DTSTART:20261028T203000Z
+DTEND:20261028T213000Z
+DTSTAMP:20261028T203000Z
+UID:event19570+0@math.princeton.edu
+DESCRIPTION:Speaker: Javier Gómez-Serrano\, Brown University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Simon Brendle — TBA
 DTSTART:20261014T203000Z
 DTEND:20261014T213000Z
@@ -77,15 +104,6 @@ DTSTAMP:20261013T203000Z
 UID:event19562+0@math.princeton.edu
 DESCRIPTION:Speaker: Ilya Shkredov\, Purdue University
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joakim Færgeman — What's Happening in Fine Hall
-DTSTART:20260929T160500Z
-DTEND:20260929T170000Z
-DTSTAMP:20260929T160500Z
-UID:event19561+0@math.princeton.edu
-DESCRIPTION:Speaker: Joakim Færgeman
-LOCATION:Fine Hall Common Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hao Peng — The Beilinson–Bloch–Kato conjecture for polarized
@@ -471,22 +489,14 @@ DESCRIPTION:Speaker: Junliang Shen\, Yale
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matthew Satriano — TBA
+SUMMARY:Matthew Satriano — Stringy Hodge numbers and crepant resolutions
+  of log-terminal singularities
 DTSTART:20261006T210000Z
 DTEND:20261006T220000Z
 DTSTAMP:20261006T210000Z
 UID:event19498+0@math.princeton.edu
 DESCRIPTION:Speaker: Matthew Satriano\, U. Waterloo
 LOCATION:Fine Hall 322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sam Grushevsky — Compactifications of moduli of differentials
-DTSTART:20260929T190000Z
-DTEND:20260929T200000Z
-DTSTAMP:20260929T190000Z
-UID:event19497+0@math.princeton.edu
-DESCRIPTION:Speaker: Sam Grushevsky\, Stony Brook
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eran Nevo — TBA
