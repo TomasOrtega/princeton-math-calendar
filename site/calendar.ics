@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Mathieu Vallée — TBA
+DTSTART:20261029T143000Z
+DTEND:20261029T153000Z
+DTSTAMP:20261029T143000Z
+UID:event19573+0@math.princeton.edu
+DESCRIPTION:Speaker: Mathieu Vallée\, Université libre de Bruxelles
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nansen Petrosyan — TBA
 DTSTART:20261203T153000Z
 DTEND:20261203T163000Z
@@ -97,7 +106,8 @@ DESCRIPTION:Speaker: Yiqi Huang\, MIT
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ilya Shkredov — TBA
+SUMMARY:Ilya Shkredov — Zaremba’s conjecture and Korobov’s optimal c
+ oefficients
 DTSTART:20261013T203000Z
 DTEND:20261013T213000Z
 DTSTAMP:20261013T203000Z
@@ -116,7 +126,8 @@ DESCRIPTION:Speaker: Hao Peng\, Princeton
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — TBD
+SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
+ ’s case study
 DTSTART:20261117T200000Z
 DTEND:20261117T210000Z
 DTSTAMP:20261117T200000Z
@@ -126,7 +137,8 @@ DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — TBD
+SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
+ ’s case study
 DTSTART:20261103T200000Z
 DTEND:20261103T210000Z
 DTSTAMP:20261103T200000Z
@@ -136,7 +148,8 @@ DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — TBD
+SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
+ ’s case study
 DTSTART:20261027T190000Z
 DTEND:20261027T200000Z
 DTSTAMP:20261027T190000Z
@@ -780,16 +793,6 @@ DTEND:20261014T200000Z
 DTSTAMP:20261014T190000Z
 UID:event19426+0@math.princeton.edu
 DESCRIPTION:Speaker: Simon Brendle\, Columbia
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jie Qing — Potentials for sub-Laplacians and geometric applicati
- ons
-DTSTART:20260930T190000Z
-DTEND:20260930T200000Z
-DTSTAMP:20260930T190000Z
-UID:event19424+0@math.princeton.edu
-DESCRIPTION:Speaker: Jie Qing\, UCSC
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
