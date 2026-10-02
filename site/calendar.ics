@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Vladimir Gorchakov — TBA
+DTSTART:20261105T153000Z
+DTEND:20261105T163000Z
+DTSTAMP:20261105T153000Z
+UID:event19574+0@math.princeton.edu
+DESCRIPTION:Speaker: Vladimir Gorchakov\, Uinversity of Western Ontario
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mathieu Vallée — TBA
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
@@ -47,16 +56,6 @@ DTEND:20261014T213000Z
 DTSTAMP:20261014T203000Z
 UID:event19569+0@math.princeton.edu
 DESCRIPTION:Speaker: Simon Brendle\, Columbia
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lily Li — Finiteness of Anosov and pseudo-Anosov flows on hyperb
- olic 3-manifolds
-DTSTART:20261001T203000Z
-DTEND:20261001T213000Z
-DTSTAMP:20261001T203000Z
-UID:event19568+0@math.princeton.edu
-DESCRIPTION:Speaker: Lily Li\, Princeton
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
@@ -106,24 +105,13 @@ DESCRIPTION:Speaker: Yiqi Huang\, MIT
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ilya Shkredov — Zaremba’s conjecture and Korobov’s optimal c
- oefficients
+SUMMARY:Ilya Shkredov — TBA
 DTSTART:20261013T203000Z
 DTEND:20261013T213000Z
 DTSTAMP:20261013T203000Z
 UID:event19562+0@math.princeton.edu
 DESCRIPTION:Speaker: Ilya Shkredov\, Purdue University
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hao Peng — The Beilinson–Bloch–Kato conjecture for polarized
-  motives.
-DTSTART:20261001T193000Z
-DTEND:20261001T203000Z
-DTSTAMP:20261001T193000Z
-UID:event19559+0@math.princeton.edu
-DESCRIPTION:Speaker: Hao Peng\, Princeton
-LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
@@ -174,15 +162,6 @@ DTEND:20261029T200000Z
 DTSTAMP:20261029T190000Z
 UID:event19553+0@math.princeton.edu
 DESCRIPTION:Speaker: Hung-Hsun (Hans) Yu\, Princeton
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zixuan Xu — Improved lower bound on hypercube edge slicing
-DTSTART:20261001T190000Z
-DTEND:20261001T200000Z
-DTSTAMP:20261001T190000Z
-UID:event19552+0@math.princeton.edu
-DESCRIPTION:Speaker: Zixuan Xu\, Princeton
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -380,18 +359,6 @@ DTSTAMP:20261008T190000Z
 UID:event19521+0@math.princeton.edu
 DESCRIPTION:Speaker: Ruben Ascoli\, Georgia Tech
 LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jonathan Jaquette — Axisymmetric Navier-Stokes Equations with Sw
- irl: Computer-assisted proofs of steady states with an eye towards richer 
- dynamics
-DTSTART:20261001T190000Z
-DTEND:20261001T200000Z
-DTSTAMP:20261001T190000Z
-UID:event19519+0@math.princeton.edu
-DESCRIPTION:Speaker: Jonathan Jaquette\, New Jersey Institute of Technolog
- y
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Donggun Lee — TBA
@@ -820,15 +787,6 @@ DTEND:20261112T190000Z
 DTSTAMP:20261112T180000Z
 UID:event19416+0@math.princeton.edu
 DESCRIPTION:Speaker: Andrew Baker\, University of Glasgow
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oscar Randal-Williams — TQFTs v. exotic spheres
-DTSTART:20261001T170000Z
-DTEND:20261001T180000Z
-DTSTAMP:20261001T170000Z
-UID:event19415+0@math.princeton.edu
-DESCRIPTION:Speaker: Oscar Randal-Williams\, Cambridge University
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
