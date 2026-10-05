@@ -5,6 +5,35 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Raphael Tsiamis — Michael-Simon inequalities and Allard regulari
+ ty for anisotropic varifolds
+DTSTART:20261007T190000Z
+DTEND:20261007T200000Z
+DTSTAMP:20261007T190000Z
+UID:event19578+0@math.princeton.edu
+DESCRIPTION:Speaker: Raphael Tsiamis\, Columbia University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tao Gong — A Counterexample to Cohomological Rigidity of Toric M
+ anifolds
+DTSTART:20261022T143000Z
+DTEND:20261022T153000Z
+DTSTAMP:20261022T143000Z
+UID:event19577+0@math.princeton.edu
+DESCRIPTION:Speaker: Tao Gong\, University of Western Ontario
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Litt — TBA
+DTSTART:20261207T203000Z
+DTEND:20261207T213000Z
+DTSTAMP:20261207T203000Z
+UID:event19576+0@math.princeton.edu
+DESCRIPTION:Speaker: Daniel Litt\, University of Toronto
+LOCATION:IAS - Simonyi Hall 101
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ramon van Handel — Optimal spectral gaps
 DTSTART:20261009T160000Z
 DTEND:20261009T171000Z
@@ -41,10 +70,11 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Suciu — TBA
-DTSTART:20261005T143000Z
-DTEND:20261005T153000Z
-DTSTAMP:20261005T143000Z
+SUMMARY:Alex Suciu — Highly connected non-formal Milnor fibers via polyh
+ edral products
+DTSTART:20261015T143000Z
+DTEND:20261015T153000Z
+DTSTAMP:20261015T143000Z
 UID:event19571+0@math.princeton.edu
 DESCRIPTION:Speaker: Alex Suciu\, Northeastern University
 LOCATION:
@@ -59,7 +89,7 @@ DESCRIPTION:Speaker: Javier Gómez-Serrano\, Brown University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Simon Brendle — TBA
+SUMMARY:Simon Brendle — Curvature and topology of manifolds
 DTSTART:20261014T203000Z
 DTEND:20261014T213000Z
 DTSTAMP:20261014T203000Z
@@ -96,7 +126,7 @@ DESCRIPTION:Speaker: Yun ho\, Columbia & Adam Jaffe\, Columbia
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hongjian Yang — TBA
+SUMMARY:Hongjian Yang — The flip symmetry on Khovanov-Rozansky homology
 DTSTART:20261008T203000Z
 DTEND:20261008T213000Z
 DTSTAMP:20261008T203000Z
@@ -517,7 +547,7 @@ DESCRIPTION:Speaker: Federico Scavia\, Université Sorbonne Paris Nord
 LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haoyang Guo — TBA
+SUMMARY:Haoyang Guo — Integral structures of the Gauss--Manin connection
 DTSTART:20261012T193000Z
 DTEND:20261012T203000Z
 DTSTAMP:20261012T193000Z
