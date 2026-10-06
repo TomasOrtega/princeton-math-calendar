@@ -351,16 +351,6 @@ DESCRIPTION:Speaker: Alexander Vladimirsky\, Cornell
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jason Altschuler — Negative Stepsizes Make Gradient-Descent-Asce
- nt Converge
-DTSTART:20261005T203000Z
-DTEND:20261005T213000Z
-DTSTAMP:20261005T203000Z
-UID:event19528+0@math.princeton.edu
-DESCRIPTION:Speaker: Jason Altschuler\, Princeton
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andrew Horning — TBA
 DTSTART:20261111T170000Z
 DTEND:20261111T180000Z
@@ -630,17 +620,6 @@ DESCRIPTION:Speaker: Simon Brendle\, Columbia
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sohrab Shahshahani — Asymptotic Stability of the Degree-One Vort
- ex in the Abelian Yang-Mills-Higgs Model
-DTSTART:20261005T190000Z
-DTEND:20261005T200000Z
-DTSTAMP:20261005T190000Z
-UID:event19465+0@math.princeton.edu
-DESCRIPTION:Speaker: Sohrab Shahshahani\, University of Massachusetts Amhe
- rst
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Melanie Rupflin — TBA
 DTSTART:20261111T200000Z
 DTEND:20261111T210000Z
@@ -722,15 +701,6 @@ DTSTAMP:20261006T193000Z
 UID:event19447+0@math.princeton.edu
 DESCRIPTION:Speaker: Davesh Maulik\, MIT
 LOCATION:McDonnell Hall A01
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Davesh Maulik — The P=W Conjecture
-DTSTART:20261005T193000Z
-DTEND:20261005T203000Z
-DTSTAMP:20261005T193000Z
-UID:event19446+0@math.princeton.edu
-DESCRIPTION:Speaker: Davesh Maulik\, MIT
-LOCATION:McDonnell Hall A02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anna Erschler — Growth of infinite groups
