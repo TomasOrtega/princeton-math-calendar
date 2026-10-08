@@ -24,16 +24,6 @@ DESCRIPTION:Speaker: Fiammetta Battaglia\, Università degli Studi di Fire
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Raphael Tsiamis — Michael-Simon inequalities and Allard regulari
- ty for anisotropic varifolds
-DTSTART:20261007T190000Z
-DTEND:20261007T200000Z
-DTSTAMP:20261007T190000Z
-UID:event19578+0@math.princeton.edu
-DESCRIPTION:Speaker: Raphael Tsiamis\, Columbia University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tao Gong — A Counterexample to Cohomological Rigidity of Toric M
  anifolds
 DTSTART:20261022T143000Z
@@ -153,7 +143,8 @@ DESCRIPTION:Speaker: Yiqi Huang\, MIT
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ilya Shkredov — TBA
+SUMMARY:Ilya Shkredov — Zaremba’s conjecture and Korobov’s optimal c
+ oefficients
 DTSTART:20261013T203000Z
 DTEND:20261013T213000Z
 DTSTAMP:20261013T203000Z
@@ -366,16 +357,6 @@ DTEND:20261028T170000Z
 DTSTAMP:20261028T160000Z
 UID:event19526+0@math.princeton.edu
 DESCRIPTION:Speaker: David Persson\,NYU
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christian Camano — Linear algebra at exponential scale via tenso
- r network dimension reduction
-DTSTART:20261007T160000Z
-DTEND:20261007T170000Z
-DTSTAMP:20261007T160000Z
-UID:event19525+0@math.princeton.edu
-DESCRIPTION:Speaker: Christian Camano\, Caltech
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
@@ -654,15 +635,6 @@ DESCRIPTION:Speaker: Sang-Il Oum\, Institute for Basic Science
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jacob Fox — Arithmetic Ramsey numbers
-DTSTART:20261007T203000Z
-DTEND:20261007T213000Z
-DTSTAMP:20261007T203000Z
-UID:event19452+0@math.princeton.edu
-DESCRIPTION:Speaker: Jacob Fox\, Stanford
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gigliola Staffilani — Is there a formula for our personal succes
  s?
 DTSTART:20261030T161000Z
@@ -673,7 +645,8 @@ DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
 LOCATION:Fine Hall Common Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Davesh Maulik — Algebraic cycles on hyperkahler varieties
+SUMMARY:Davesh Maulik — CANCELLED: Algebraic cycles on hyperkahler varie
+ ties
 DTSTART:20261008T193000Z
 DTEND:20261008T203000Z
 DTSTAMP:20261008T193000Z
