@@ -54,15 +54,6 @@ DESCRIPTION:Speaker: Daniel Litt\, University of Toronto
 LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ramon van Handel — Optimal spectral gaps
-DTSTART:20261009T160000Z
-DTEND:20261009T171000Z
-DTSTAMP:20261009T160000Z
-UID:event19575+0@math.princeton.edu
-DESCRIPTION:Speaker: Ramon van Handel\, Princeton
-LOCATION:Fine Hall Common Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vladimir Gorchakov — TBA
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
@@ -637,15 +628,6 @@ DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
 LOCATION:Fine Hall Common Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Davesh Maulik — Algebraic cycles on hyperkahler varieties
-DTSTART:20261009T193000Z
-DTEND:20261009T203000Z
-DTSTAMP:20261009T193000Z
-UID:event19448+0@math.princeton.edu
-DESCRIPTION:Speaker: Davesh Maulik\, MIT
-LOCATION:McDonnell Hall A01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anna Erschler — Growth of infinite groups
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
@@ -696,16 +678,6 @@ DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anna Erschler — Growth of infinite groups
-DTSTART:20261009T180000Z
-DTEND:20261009T190000Z
-DTSTAMP:20261009T180000Z
-UID:event19440+0@math.princeton.edu
-DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
- \, Sorbonne University
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Simon Brendle — Systolic inequalities and the Horowitz-Myers con
  jecture
 DTSTART:20261014T190000Z
@@ -743,7 +715,8 @@ DESCRIPTION:Speaker: Andrew Baker\, University of Glasgow
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Irina Bobkova — TBA
+SUMMARY:Irina Bobkova — New periodic families in stable homotopy groups 
+ of spheres at p=2.
 DTSTART:20261015T170000Z
 DTEND:20261015T180000Z
 DTSTAMP:20261015T170000Z
