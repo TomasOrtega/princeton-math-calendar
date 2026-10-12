@@ -5,6 +5,33 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Matt Gursky — TBA
+DTSTART:20261204T200000Z
+DTEND:20261204T210000Z
+DTSTAMP:20261204T200000Z
+UID:event19585+0@math.princeton.edu
+DESCRIPTION:Speaker: Matt Gursky\, Notre Dame
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marius Fischer — TBA
+DTSTART:20261110T213000Z
+DTEND:20261110T223000Z
+DTSTAMP:20261110T213000Z
+UID:event19584+0@math.princeton.edu
+DESCRIPTION:Speaker: Marius Fischer\, Aarhus University
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anne Larsen — TBA
+DTSTART:20261201T213000Z
+DTEND:20261201T223000Z
+DTSTAMP:20261201T213000Z
+UID:event19583+0@math.princeton.edu
+DESCRIPTION:Speaker: Anne Larsen\, MIT
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Andrés Laín Sanclemente — Finite-time singularities for the 2D
   Boussinesq and 2D non-homogeneous Euler equations via vortex layer cascad
  es
@@ -243,7 +270,8 @@ DESCRIPTION:Speaker: Ahmed Bou-Rabee\, University of Pennsylvania
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kyle Hayden — TBA
+SUMMARY:Kyle Hayden — Disordered handles and the complexity of h-cobordi
+ sms
 DTSTART:20261015T203000Z
 DTEND:20261015T213000Z
 DTSTAMP:20261015T203000Z
@@ -591,7 +619,8 @@ DESCRIPTION:Speaker: Daniel Li-Huerta\, MIT
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ivan Loseu — TBA
+SUMMARY:Ivan Loseu — Toward quasi-classical Fundamental Local Equivalenc
+ e.
 DTSTART:20261026T193000Z
 DTEND:20261026T203000Z
 DTSTAMP:20261026T193000Z
