@@ -163,16 +163,6 @@ DESCRIPTION:Speaker: Yiqi Huang\, MIT
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ilya Shkredov — Zaremba’s conjecture and Korobov’s optimal c
- oefficients
-DTSTART:20261013T203000Z
-DTEND:20261013T213000Z
-DTSTAMP:20261013T203000Z
-UID:event19562+0@math.princeton.edu
-DESCRIPTION:Speaker: Ilya Shkredov\, Purdue University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
  ’s case study
 DTSTART:20261117T200000Z
@@ -468,15 +458,6 @@ DTEND:20261103T210000Z
 DTSTAMP:20261103T200000Z
 UID:event19500+0@math.princeton.edu
 DESCRIPTION:Speaker: Alessio Bottini\, Imperial
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Junliang Shen — Topology of Galois conjugate character varieties
-DTSTART:20261013T190000Z
-DTEND:20261013T200000Z
-DTSTAMP:20261013T190000Z
-UID:event19499+0@math.princeton.edu
-DESCRIPTION:Speaker: Junliang Shen\, Yale
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
