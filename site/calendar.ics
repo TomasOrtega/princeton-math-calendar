@@ -127,15 +127,6 @@ DESCRIPTION:Speaker: Javier Gómez-Serrano\, Brown University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Simon Brendle — Curvature and topology of manifolds
-DTSTART:20261014T203000Z
-DTEND:20261014T213000Z
-DTSTAMP:20261014T203000Z
-UID:event19569+0@math.princeton.edu
-DESCRIPTION:Speaker: Simon Brendle\, Columbia
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preston Wake — TBA
 DTSTART:20261029T193000Z
 DTEND:20261029T203000Z
@@ -277,15 +268,6 @@ DTSTAMP:20261203T213000Z
 UID:event19539+0@math.princeton.edu
 DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hearing Math with Sandeep Das
-DTSTART:20261014T230000Z
-DTEND:20261015T000000Z
-DTSTAMP:20261014T230000Z
-UID:event19540+0@math.princeton.edu
-DESCRIPTION:Speaker: Hearing Math with Sandeep Das
-LOCATION:Taplin Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gary Guth — TBA
@@ -581,7 +563,8 @@ DESCRIPTION:Speaker: Ivan Loseu\, Yale
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lucas Mason-Brown — TBA
+SUMMARY:Lucas Mason-Brown — Unitary representations and the Langlands cl
+ assification
 DTSTART:20261019T193000Z
 DTEND:20261019T203000Z
 DTSTAMP:20261019T193000Z
@@ -657,16 +640,6 @@ UID:event19441+0@math.princeton.edu
 DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
  \, Sorbonne University
 LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Simon Brendle — Systolic inequalities and the Horowitz-Myers con
- jecture
-DTSTART:20261014T190000Z
-DTEND:20261014T200000Z
-DTSTAMP:20261014T190000Z
-UID:event19426+0@math.princeton.edu
-DESCRIPTION:Speaker: Simon Brendle\, Columbia
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Akhil Mathew — TBA
