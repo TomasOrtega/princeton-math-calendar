@@ -108,16 +108,6 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alex Suciu — Highly connected non-formal Milnor fibers via polyh
- edral products
-DTSTART:20261015T143000Z
-DTEND:20261015T153000Z
-DTSTAMP:20261015T143000Z
-UID:event19571+0@math.princeton.edu
-DESCRIPTION:Speaker: Alex Suciu\, Northeastern University
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Javier Gómez-Serrano — TBA
 DTSTART:20261028T203000Z
 DTEND:20261028T213000Z
@@ -251,16 +241,6 @@ DESCRIPTION:Speaker: Ahmed Bou-Rabee\, University of Pennsylvania
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kyle Hayden — Disordered handles and the complexity of h-cobordi
- sms
-DTSTART:20261015T203000Z
-DTEND:20261015T213000Z
-DTSTAMP:20261015T203000Z
-UID:event19543+0@math.princeton.edu
-DESCRIPTION:Speaker: Kyle Hayden\, Rutgers University-Newark
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Qiuyu Ren — TBA
 DTSTART:20261203T213000Z
 DTEND:20261203T223000Z
@@ -371,7 +351,7 @@ DESCRIPTION:Speaker: Sid Mathur\, UGA
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Xin Zhou — TBA
+SUMMARY:Xin Zhou — Some recent progress of min-max theory
 DTSTART:20261104T200000Z
 DTEND:20261104T210000Z
 DTSTAMP:20261104T200000Z
@@ -477,25 +457,6 @@ DTEND:20261116T213000Z
 DTSTAMP:20261116T203000Z
 UID:event19484+0@math.princeton.edu
 DESCRIPTION:Speaker: Gyujin Oh\, Columbia University
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chen Wan — A relative trace formula identity for non-tempered sp
- herical varieties
-DTSTART:20261015T193000Z
-DTEND:20261015T203000Z
-DTSTAMP:20261015T193000Z
-UID:event19482+0@math.princeton.edu
-DESCRIPTION:Speaker: Chen Wan\, Rutgers
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Martin Loebl — Shapley meets Tutte
-DTSTART:20261015T190000Z
-DTEND:20261015T200000Z
-DTSTAMP:20261015T190000Z
-UID:event19479+0@math.princeton.edu
-DESCRIPTION:Speaker: Martin Loebl\, Charles University
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -666,16 +627,6 @@ DTEND:20261112T190000Z
 DTSTAMP:20261112T180000Z
 UID:event19416+0@math.princeton.edu
 DESCRIPTION:Speaker: Andrew Baker\, University of Glasgow
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Irina Bobkova — New periodic families in stable homotopy groups 
- of spheres at p=2.
-DTSTART:20261015T170000Z
-DTEND:20261015T180000Z
-DTSTAMP:20261015T170000Z
-UID:event19414+0@math.princeton.edu
-DESCRIPTION:Speaker: Irina Bobkova\, Texas A&M
 LOCATION:
 END:VEVENT
 END:VCALENDAR
