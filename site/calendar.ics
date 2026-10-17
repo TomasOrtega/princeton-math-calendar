@@ -593,16 +593,6 @@ DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anna Erschler — Growth of infinite groups
-DTSTART:20261016T180000Z
-DTEND:20261016T190000Z
-DTSTAMP:20261016T180000Z
-UID:event19441+0@math.princeton.edu
-DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
- \, Sorbonne University
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Akhil Mathew — TBA
 DTSTART:20261105T180000Z
 DTEND:20261105T190000Z
