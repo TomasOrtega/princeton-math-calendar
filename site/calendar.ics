@@ -5,8 +5,17 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Chandrashekhar Khare — Chasing a Conjecture: Inside the Mind of 
- a Mathematician
+SUMMARY:Robert Burklund — TBA
+DTSTART:20261130T203000Z
+DTEND:20261130T213000Z
+DTSTAMP:20261130T203000Z
+UID:event19590+0@math.princeton.edu
+DESCRIPTION:Speaker: Robert Burklund\, University of Copenhagen
+LOCATION:Fine Hall 224
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chandrashekhar Khare — Chasing (a) Conjecture: Inside the Mind o
+ f a Mathematician
 DTSTART:20261117T233000Z
 DTEND:20261118T003000Z
 DTSTAMP:20261117T233000Z
@@ -109,7 +118,8 @@ DESCRIPTION:Speaker: Vladimir Gorchakov\, Uinversity of Western Ontario
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathieu Vallée — TBA
+SUMMARY:Mathieu Vallée — Enumeration of toric manifolds and PL spheres 
+ of small Picard number
 DTSTART:20261029T143000Z
 DTEND:20261029T153000Z
 DTSTAMP:20261029T143000Z
@@ -136,7 +146,8 @@ DESCRIPTION:Speaker: Javier Gómez-Serrano\, Brown University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Preston Wake — TBA
+SUMMARY:Preston Wake — Counting level-raising congruences using modular 
+ representation theory
 DTSTART:20261029T193000Z
 DTEND:20261029T203000Z
 DTSTAMP:20261029T193000Z
@@ -524,7 +535,7 @@ DESCRIPTION:Speaker: Melanie Rupflin\, Oxford
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Li-Huerta — TBA
+SUMMARY:Daniel Li-Huerta — A global Hartl–Pink curve
 DTSTART:20261102T203000Z
 DTEND:20261102T213000Z
 DTSTAMP:20261102T203000Z
