@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Shiri Ron — Obviously Strategyproof Auctions
+DTSTART:20261026T161000Z
+DTEND:20261026T171000Z
+DTSTAMP:20261026T161000Z
+UID:event19591+0@math.princeton.edu
+DESCRIPTION:Speaker: Shiri Ron\, Princeton
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Robert Burklund — TBA
 DTSTART:20261130T203000Z
 DTEND:20261130T213000Z
@@ -42,7 +51,8 @@ DESCRIPTION:Speaker: Matt Gursky\, Notre Dame
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marius Fischer — TBA
+SUMMARY:Marius Fischer — L^4-norms of automorphic forms in the depth asp
+ ect
 DTSTART:20261110T213000Z
 DTEND:20261110T223000Z
 DTSTAMP:20261110T213000Z
@@ -87,16 +97,6 @@ DTSTAMP:20261119T153000Z
 UID:event19579+0@math.princeton.edu
 DESCRIPTION:Speaker: Fiammetta Battaglia\, Università degli Studi di Fire
  nze
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tao Gong — A Counterexample to Cohomological Rigidity of Toric M
- anifolds
-DTSTART:20261022T143000Z
-DTEND:20261022T153000Z
-DTSTAMP:20261022T143000Z
-UID:event19577+0@math.princeton.edu
-DESCRIPTION:Speaker: Tao Gong\, University of Western Ontario
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -373,7 +373,7 @@ DESCRIPTION:Speaker: Douglas Ravenel\, University of Rochester
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sid Mathur — TBA
+SUMMARY:Sid Mathur — Formal GAGA for Brauer classes
 DTSTART:20261027T190000Z
 DTEND:20261027T200000Z
 DTSTAMP:20261027T190000Z
