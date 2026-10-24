@@ -5,6 +5,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Chandrashekhar Khare — Congruences between modular forms and the
+  Bloch-Kato conjecture for their adjoint motives
+DTSTART:20261118T213000Z
+DTEND:20261118T223000Z
+DTSTAMP:20261118T213000Z
+UID:event19592+0@math.princeton.edu
+DESCRIPTION:Speaker: Chandrashekhar Khare\, UCLA
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shiri Ron — Obviously Strategyproof Auctions
 DTSTART:20261026T161000Z
 DTEND:20261026T171000Z
@@ -156,12 +166,13 @@ DESCRIPTION:Speaker: Preston Wake\, Michigan State University
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yun ho — TBA
+SUMMARY:Yun Ho — Tomography as Kernel Regression & Nonparametric Riemann
+ ian Empirical Bayes\, and Denoising Measurements on Manifolds
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 DTSTAMP:20261118T170000Z
 UID:event19565+0@math.princeton.edu
-DESCRIPTION:Speaker: Yun ho\, Columbia & Adam Jaffe\, Columbia
+DESCRIPTION:Speaker: Yun Ho\, Columbia & Adam Jaffe\, Columbia
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
@@ -298,7 +309,7 @@ DESCRIPTION:Speaker: Daniel Rockmore\, Dartmouth
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ankur Moitra — TBA
+SUMMARY:Ankur Moitra — Phase Transitions in Quantum Spin Systems
 DTSTART:20261116T213000Z
 DTEND:20261116T223000Z
 DTSTAMP:20261116T213000Z
@@ -363,8 +374,8 @@ DESCRIPTION:Speaker: Donggun Lee\, KIAS
 LOCATION:Fine Hall 322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Douglas Ravenel — Cyclotomic extensions in stable homotopy theor
- y
+SUMMARY:Douglas Ravenel — Open AI and the 3-primary Kervaire invariant p
+ roblem
 DTSTART:20261029T170000Z
 DTEND:20261029T180000Z
 DTSTAMP:20261029T170000Z
@@ -557,7 +568,8 @@ DESCRIPTION:Speaker: Ivan Loseu\, Yale
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sang-Il Oum — TBA
+SUMMARY:Sang-Il Oum — Every tournament of dichromatic number 10 k^2 has 
+ a vertex whose out-neighborhood has dichromatic number more than k.
 DTSTART:20261105T200000Z
 DTEND:20261105T210000Z
 DTSTAMP:20261105T200000Z
