@@ -187,9 +187,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
  ’s case study
-DTSTART:20261117T200000Z
-DTEND:20261117T210000Z
-DTSTAMP:20261117T200000Z
+DTSTART:20261117T210000Z
+DTEND:20261117T220000Z
+DTSTAMP:20261117T210000Z
 UID:event19558+0@math.princeton.edu
 DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
  anck Institute for Mathematics in the Sciences\, Leipzig
@@ -198,9 +198,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
  ’s case study
-DTSTART:20261103T200000Z
-DTEND:20261103T210000Z
-DTSTAMP:20261103T200000Z
+DTSTART:20261103T210000Z
+DTEND:20261103T220000Z
+DTSTAMP:20261103T210000Z
 UID:event19557+0@math.princeton.edu
 DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
  anck Institute for Mathematics in the Sciences\, Leipzig
@@ -209,9 +209,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
  ’s case study
-DTSTART:20261027T190000Z
-DTEND:20261027T200000Z
-DTSTAMP:20261027T190000Z
+DTSTART:20261027T200000Z
+DTEND:20261027T210000Z
+DTSTAMP:20261027T200000Z
 UID:event19556+0@math.princeton.edu
 DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
  anck Institute for Mathematics in the Sciences\, Leipzig
@@ -263,7 +263,7 @@ DESCRIPTION:Speaker: Ilias Zadik\, Yale
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ofer Zeitouni — TBA
+SUMMARY:Ofer Zeitouni — On the excess of the sine-beta process
 DTSTART:20261103T200000Z
 DTEND:20261103T210000Z
 DTSTAMP:20261103T200000Z
@@ -273,7 +273,8 @@ DESCRIPTION:Speaker: Ofer Zeitouni\, Weizmann Institute & Courant Institut
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ahmed Bou-Rabee — TBA
+SUMMARY:Ahmed Bou-Rabee — Sandpile avalanches in two dimensions are fini
+ te
 DTSTART:20261027T190000Z
 DTEND:20261027T200000Z
 DTSTAMP:20261027T190000Z
@@ -521,12 +522,13 @@ DESCRIPTION:Speaker: Charles Collot\, Cergy Paris Université
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Juhi Jang — TBA
+SUMMARY:Matei Coiculescu — Non-Uniqueness of Weak Solutions to the Unfor
+ ced Two-Dimensional Euler Equations with Vorticity in $L^1\\cap L^p$
 DTSTART:20261116T200000Z
 DTEND:20261116T210000Z
 DTSTAMP:20261116T200000Z
 UID:event19468+0@math.princeton.edu
-DESCRIPTION:Speaker: Juhi Jang\, USC
+DESCRIPTION:Speaker: Matei Coiculescu\, NYU
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
