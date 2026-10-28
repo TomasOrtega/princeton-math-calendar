@@ -5,6 +5,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Dongryul Kim — Classification of measures and counting on surfac
+ es
+DTSTART:20261103T213000Z
+DTEND:20261103T223000Z
+DTSTAMP:20261103T213000Z
+UID:event19594+0@math.princeton.edu
+DESCRIPTION:Speaker: Dongryul Kim\, IAS
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Irit Dinur — High dimensional expansion
 DTSTART:20261104T171000Z
 DTEND:20261104T181000Z
@@ -124,7 +134,7 @@ DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
 DTSTAMP:20261105T153000Z
 UID:event19574+0@math.princeton.edu
-DESCRIPTION:Speaker: Vladimir Gorchakov\, Uinversity of Western Ontario
+DESCRIPTION:Speaker: Vladimir Gorchakov\, University of Western Ontario
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
