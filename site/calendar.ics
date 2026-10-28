@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Irit Dinur — High dimensional expansion
+DTSTART:20261104T171000Z
+DTEND:20261104T181000Z
+DTSTAMP:20261104T171000Z
+UID:event19593+0@math.princeton.edu
+DESCRIPTION:Speaker: Irit Dinur\, IAS
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chandrashekhar Khare — Congruences between modular forms and the
   Bloch-Kato conjecture for their adjoint motives
 DTSTART:20261118T213000Z
@@ -199,17 +208,6 @@ DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
- ’s case study
-DTSTART:20261027T200000Z
-DTEND:20261027T210000Z
-DTSTAMP:20261027T200000Z
-UID:event19556+0@math.princeton.edu
-DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
- anck Institute for Mathematics in the Sciences\, Leipzig
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nemanja Draganic — TBA
 DTSTART:20261119T200000Z
 DTEND:20261119T210000Z
@@ -219,7 +217,8 @@ DESCRIPTION:Speaker: Nemanja Draganic\, Bocconi University
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hung-Hsun (Hans) Yu — TBA
+SUMMARY:Hung-Hsun (Hans) Yu — The Erdős distinct distances problem in R
+ ^3
 DTSTART:20261029T190000Z
 DTEND:20261029T200000Z
 DTSTAMP:20261029T190000Z
@@ -262,16 +261,6 @@ DTSTAMP:20261103T200000Z
 UID:event19548+0@math.princeton.edu
 DESCRIPTION:Speaker: Ofer Zeitouni\, Weizmann Institute & Courant Institut
  e
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ahmed Bou-Rabee — Sandpile avalanches in two dimensions are fini
- te
-DTSTART:20261027T190000Z
-DTEND:20261027T200000Z
-DTSTAMP:20261027T190000Z
-UID:event19547+0@math.princeton.edu
-DESCRIPTION:Speaker: Ahmed Bou-Rabee\, University of Pennsylvania
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -365,15 +354,6 @@ DTSTAMP:20261029T170000Z
 UID:event19516+0@math.princeton.edu
 DESCRIPTION:Speaker: Douglas Ravenel\, University of Rochester
 LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sid Mathur — Formal GAGA for Brauer classes
-DTSTART:20261027T190000Z
-DTEND:20261027T200000Z
-DTSTAMP:20261027T190000Z
-UID:event19512+0@math.princeton.edu
-DESCRIPTION:Speaker: Sid Mathur\, UGA
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xin Zhou — Some recent progress of min-max theory
