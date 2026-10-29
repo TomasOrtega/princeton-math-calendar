@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Junzhi Huang — TBA
+DTSTART:20261105T213000Z
+DTEND:20261105T223000Z
+DTSTAMP:20261105T213000Z
+UID:event19595+0@math.princeton.edu
+DESCRIPTION:Speaker: Junzhi Huang\, Yale
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dongryul Kim — Classification of measures and counting on surfac
  es
 DTSTART:20261103T213000Z
@@ -129,7 +138,8 @@ DESCRIPTION:Speaker: Daniel Litt\, University of Toronto
 LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Vladimir Gorchakov — TBA
+SUMMARY:Vladimir Gorchakov — Equivariant formality and the cohomology of
+  subgroups of right-angled Coxeter groups
 DTSTART:20261105T153000Z
 DTEND:20261105T163000Z
 DTSTAMP:20261105T153000Z
@@ -157,16 +167,6 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Javier Gómez-Serrano — Self-similar singularities in fluids and
-  dispersive PDE
-DTSTART:20261028T203000Z
-DTEND:20261028T213000Z
-DTSTAMP:20261028T203000Z
-UID:event19570+0@math.princeton.edu
-DESCRIPTION:Speaker: Javier Gómez-Serrano\, Brown University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Preston Wake — Counting level-raising congruences using modular 
  representation theory
 DTSTART:20261029T193000Z
@@ -179,9 +179,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yun Ho — Tomography as Kernel Regression & Nonparametric Riemann
  ian Empirical Bayes\, and Denoising Measurements on Manifolds
-DTSTART:20261118T170000Z
-DTEND:20261118T180000Z
-DTSTAMP:20261118T170000Z
+DTSTART:20261118T171000Z
+DTEND:20261118T181000Z
+DTSTAMP:20261118T171000Z
 UID:event19565+0@math.princeton.edu
 DESCRIPTION:Speaker: Yun Ho\, Columbia & Adam Jaffe\, Columbia
 LOCATION:Fine Hall 214
@@ -319,31 +319,12 @@ DESCRIPTION:Speaker: Ben Raphael\, Princeton
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yue Lu — TBA
-DTSTART:20261102T213000Z
-DTEND:20261102T223000Z
-DTSTAMP:20261102T213000Z
-UID:event19531+0@math.princeton.edu
-DESCRIPTION:Speaker: Yue Lu\, Harvard
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Andrew Horning — TBA
-DTSTART:20261111T170000Z
-DTEND:20261111T180000Z
-DTSTAMP:20261111T170000Z
+DTSTART:20261111T171000Z
+DTEND:20261111T181000Z
+DTSTAMP:20261111T171000Z
 UID:event19527+0@math.princeton.edu
 DESCRIPTION:Speaker: Andrew Horning\, Rensselaer Polytechnic Institute
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:David Persson — The polar express: Optimal matrix sign methods a
- nd their application to the muon algorithm
-DTSTART:20261028T190000Z
-DTEND:20261028T200000Z
-DTSTAMP:20261028T190000Z
-UID:event19526+0@math.princeton.edu
-DESCRIPTION:Speaker: David Persson\,NYU
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
@@ -393,7 +374,8 @@ DESCRIPTION:Speaker: Serban Cicortas\, New York University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Peter Hintz — TBA
+SUMMARY:Peter Hintz — Nonlinear stability of subextremal Kerr black hole
+ s
 DTSTART:20261102T200000Z
 DTEND:20261102T210000Z
 DTSTAMP:20261102T200000Z
@@ -429,7 +411,8 @@ DESCRIPTION:Speaker: Patrick Brosnan\, U. Maryland
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alessio Bottini — TBA
+SUMMARY:Alessio Bottini — The Period-Index problem for hyper-Kähler var
+ ieties
 DTSTART:20261103T200000Z
 DTEND:20261103T210000Z
 DTSTAMP:20261103T200000Z
@@ -473,16 +456,6 @@ DTSTAMP:20261116T203000Z
 UID:event19484+0@math.princeton.edu
 DESCRIPTION:Speaker: Gyujin Oh\, Columbia University
 LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ivan Miranda — On the stability of constant mean curvature hyper
- surfaces
-DTSTART:20261028T190000Z
-DTEND:20261028T200000Z
-DTSTAMP:20261028T190000Z
-UID:event19477+0@math.princeton.edu
-DESCRIPTION:Speaker: Ivan Miranda\, IMPA
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charles Collot — TBA
@@ -582,7 +555,7 @@ DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anna Erschler — Growth of infinite groups
+SUMMARY:Anna Erschler — Inverted Orbit growth
 DTSTART:20261030T180000Z
 DTEND:20261030T190000Z
 DTSTAMP:20261030T180000Z
