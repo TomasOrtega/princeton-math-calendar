@@ -5,6 +5,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Christian Klevdel — Ax-Lindemann for local Shimura varieties
+DTSTART:20261203T203000Z
+DTEND:20261203T213000Z
+DTSTAMP:20261203T203000Z
+UID:event19596+0@math.princeton.edu
+DESCRIPTION:Speaker: Christian Klevdel\, University of California\, San Di
+ ego
+LOCATION:Fine Hall 110
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Junzhi Huang — TBA
 DTSTART:20261105T213000Z
 DTEND:20261105T223000Z
@@ -25,9 +35,9 @@ LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irit Dinur — High dimensional expansion
-DTSTART:20261104T171000Z
-DTEND:20261104T181000Z
-DTSTAMP:20261104T171000Z
+DTSTART:20261118T171000Z
+DTEND:20261118T181000Z
+DTSTAMP:20261118T171000Z
 UID:event19593+0@math.princeton.edu
 DESCRIPTION:Speaker: Irit Dinur\, IAS
 LOCATION:Fine Hall 322
@@ -148,16 +158,6 @@ DESCRIPTION:Speaker: Vladimir Gorchakov\, University of Western Ontario
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mathieu Vallée — Enumeration of toric manifolds and PL spheres 
- of small Picard number
-DTSTART:20261029T143000Z
-DTEND:20261029T153000Z
-DTSTAMP:20261029T143000Z
-UID:event19573+0@math.princeton.edu
-DESCRIPTION:Speaker: Mathieu Vallée\, Université libre de Bruxelles
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nansen Petrosyan — TBA
 DTSTART:20261203T153000Z
 DTEND:20261203T163000Z
@@ -165,16 +165,6 @@ DTSTAMP:20261203T153000Z
 UID:event19572+0@math.princeton.edu
 DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preston Wake — Counting level-raising congruences using modular 
- representation theory
-DTSTART:20261029T193000Z
-DTEND:20261029T203000Z
-DTSTAMP:20261029T193000Z
-UID:event19566+0@math.princeton.edu
-DESCRIPTION:Speaker: Preston Wake\, Michigan State University
-LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yun Ho — Tomography as Kernel Regression & Nonparametric Riemann
@@ -224,16 +214,6 @@ DTEND:20261119T210000Z
 DTSTAMP:20261119T200000Z
 UID:event19554+0@math.princeton.edu
 DESCRIPTION:Speaker: Nemanja Draganic\, Bocconi University
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hung-Hsun (Hans) Yu — The Erdős distinct distances problem in R
- ^3
-DTSTART:20261029T190000Z
-DTEND:20261029T200000Z
-DTSTAMP:20261029T190000Z
-UID:event19553+0@math.princeton.edu
-DESCRIPTION:Speaker: Hung-Hsun (Hans) Yu\, Princeton
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -319,7 +299,8 @@ DESCRIPTION:Speaker: Ben Raphael\, Princeton
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andrew Horning — TBA
+SUMMARY:Andrew Horning — High-order contour-integral methods for strongl
+ y continuous semigroups
 DTSTART:20261111T171000Z
 DTEND:20261111T181000Z
 DTSTAMP:20261111T171000Z
@@ -335,16 +316,6 @@ DTSTAMP:20261110T213000Z
 UID:event19517+0@math.princeton.edu
 DESCRIPTION:Speaker: Donggun Lee\, KIAS
 LOCATION:Fine Hall 322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Douglas Ravenel — Open AI and the 3-primary Kervaire invariant p
- roblem
-DTSTART:20261029T170000Z
-DTEND:20261029T180000Z
-DTSTAMP:20261029T170000Z
-UID:event19516+0@math.princeton.edu
-DESCRIPTION:Speaker: Douglas Ravenel\, University of Rochester
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Xin Zhou — Some recent progress of min-max theory
@@ -428,16 +399,6 @@ DTSTAMP:20261112T200000Z
 UID:event19495+0@math.princeton.edu
 DESCRIPTION:Speaker: Eran Nevo\, Hebrew University
 LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gigliola Staffilani — Special Colloquium - The Study of Wave Tur
- bulence: A Meeting Ground for Mathematical  Techniques
-DTSTART:20261029T203000Z
-DTEND:20261029T213000Z
-DTSTAMP:20261029T203000Z
-UID:event19490+0@math.princeton.edu
-DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Federico Scavia — TBA
