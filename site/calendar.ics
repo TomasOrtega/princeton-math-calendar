@@ -15,7 +15,8 @@ DESCRIPTION:Speaker: Christian Klevdel\, University of California\, San Di
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Junzhi Huang — TBA
+SUMMARY:Junzhi Huang — Pseudo-Anosov flows\, hyperbolic geometry and the
+  curve graph
 DTSTART:20261105T213000Z
 DTEND:20261105T223000Z
 DTSTAMP:20261105T213000Z
@@ -476,16 +477,6 @@ DESCRIPTION:Speaker: Sang-Il Oum\, Institute for Basic Science
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gigliola Staffilani — Is there a formula for our personal succes
- s?
-DTSTART:20261030T161000Z
-DTEND:20261030T170000Z
-DTSTAMP:20261030T161000Z
-UID:event19449+0@math.princeton.edu
-DESCRIPTION:Speaker: Gigliola Staffilani\, MIT
-LOCATION:Fine Hall Common Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anna Erschler — Growth of infinite groups
 DTSTART:20261120T190000Z
 DTEND:20261120T200000Z
@@ -511,16 +502,6 @@ DTSTART:20261106T190000Z
 DTEND:20261106T200000Z
 DTSTAMP:20261106T190000Z
 UID:event19443+0@math.princeton.edu
-DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
- \, Sorbonne University
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anna Erschler — Inverted Orbit growth
-DTSTART:20261030T180000Z
-DTEND:20261030T190000Z
-DTSTAMP:20261030T180000Z
-UID:event19442+0@math.princeton.edu
 DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
  \, Sorbonne University
 LOCATION:Fine Hall 110
