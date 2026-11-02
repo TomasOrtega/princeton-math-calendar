@@ -5,6 +5,26 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Manjul Bjargava — The Magical Number 142\,857: A Full-Circle Sto
+ ry
+DTSTART:20261110T000000Z
+DTEND:20261110T010000Z
+DTSTAMP:20261110T000000Z
+UID:event19598+0@math.princeton.edu
+DESCRIPTION:Speaker: Manjul Bjargava\, Princeton
+LOCATION:McDonnell Hall A02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Huy Nguyen — Joint Princeton-Rutgers Seminar on Analysis of Flui
+ ds
+DTSTART:20261119T200000Z
+DTEND:20261119T210000Z
+DTSTAMP:20261119T200000Z
+UID:event19597+0@math.princeton.edu
+DESCRIPTION:Speaker: Huy Nguyen\, University of Maryland
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Christian Klevdel — Ax-Lindemann for local Shimura varieties
 DTSTART:20261203T203000Z
 DTEND:20261203T213000Z
@@ -98,7 +118,7 @@ DTEND:20261110T223000Z
 DTSTAMP:20261110T213000Z
 UID:event19584+0@math.princeton.edu
 DESCRIPTION:Speaker: Marius Fischer\, Aarhus University
-LOCATION:Fine Hall 314
+LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anne Larsen — TBA
@@ -507,7 +527,8 @@ DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Akhil Mathew — TBA
+SUMMARY:Akhil Mathew — The homotopy limit problem for symmetric GW-theor
+ y
 DTSTART:20261105T180000Z
 DTEND:20261105T190000Z
 DTSTAMP:20261105T180000Z
