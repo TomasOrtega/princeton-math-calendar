@@ -5,6 +5,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Inhyeok Choi — TBA
+DTSTART:20261201T213000Z
+DTEND:20261201T223000Z
+DTSTAMP:20261201T213000Z
+UID:event19601+0@math.princeton.edu
+DESCRIPTION:Speaker: Inhyeok Choi\, KIAS
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sanath Devalapurkar — 1-dimensional formal groups and variants o
  f the logarithm
 DTSTART:20261105T203000Z
@@ -24,13 +33,13 @@ DESCRIPTION:Speaker: Vasudha Bharathram\, Princeton
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Manjul Bjargava — The Magical Number 142\,857: A Full-Circle Sto
+SUMMARY:Manjul Bhargava — The Magical Number 142\,857: A Full-Circle Sto
  ry
 DTSTART:20261110T000000Z
 DTEND:20261110T010000Z
 DTSTAMP:20261110T000000Z
 UID:event19598+0@math.princeton.edu
-DESCRIPTION:Speaker: Manjul Bjargava\, Princeton
+DESCRIPTION:Speaker: Manjul Bhargava\, Princeton
 LOCATION:McDonnell Hall A02
 END:VEVENT
 BEGIN:VEVENT
@@ -61,16 +70,6 @@ DTEND:20261105T223000Z
 DTSTAMP:20261105T213000Z
 UID:event19595+0@math.princeton.edu
 DESCRIPTION:Speaker: Junzhi Huang\, Yale
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dongryul Kim — Classification of measures and counting on surfac
- es
-DTSTART:20261103T213000Z
-DTEND:20261103T223000Z
-DTSTAMP:20261103T213000Z
-UID:event19594+0@math.princeton.edu
-DESCRIPTION:Speaker: Dongryul Kim\, IAS
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
@@ -237,18 +236,7 @@ DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
- ’s case study
-DTSTART:20261103T210000Z
-DTEND:20261103T220000Z
-DTSTAMP:20261103T210000Z
-UID:event19557+0@math.princeton.edu
-DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
- anck Institute for Mathematics in the Sciences\, Leipzig
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nemanja Draganic — TBA
+SUMMARY:Nemanja Draganic — Structure in sparse graphs
 DTSTART:20261119T200000Z
 DTEND:20261119T210000Z
 DTSTAMP:20261119T200000Z
@@ -281,16 +269,6 @@ DTEND:20261110T210000Z
 DTSTAMP:20261110T200000Z
 UID:event19549+0@math.princeton.edu
 DESCRIPTION:Speaker: Ilias Zadik\, Yale
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ofer Zeitouni — On the excess of the sine-beta process
-DTSTART:20261103T200000Z
-DTEND:20261103T210000Z
-DTSTAMP:20261103T200000Z
-UID:event19548+0@math.princeton.edu
-DESCRIPTION:Speaker: Ofer Zeitouni\, Weizmann Institute & Courant Institut
- e
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -350,7 +328,7 @@ DESCRIPTION:Speaker: Andrew Horning\, Rensselaer Polytechnic Institute
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Donggun Lee — TBA
+SUMMARY:Donggun Lee — Hessenberg character
 DTSTART:20261110T213000Z
 DTEND:20261110T223000Z
 DTSTAMP:20261110T213000Z
@@ -411,16 +389,6 @@ DTEND:20261110T210000Z
 DTSTAMP:20261110T200000Z
 UID:event19501+0@math.princeton.edu
 DESCRIPTION:Speaker: Patrick Brosnan\, U. Maryland
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alessio Bottini — The Period-Index problem for hyper-Kähler var
- ieties
-DTSTART:20261103T200000Z
-DTEND:20261103T210000Z
-DTSTAMP:20261103T200000Z
-UID:event19500+0@math.princeton.edu
-DESCRIPTION:Speaker: Alessio Bottini\, Imperial
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
