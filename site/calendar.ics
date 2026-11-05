@@ -5,6 +5,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Jo Nelson — Contact encounters in the third dimension
+DTSTART:20261109T171000Z
+DTEND:20261109T182000Z
+DTSTAMP:20261109T171000Z
+UID:event19605+0@math.princeton.edu
+DESCRIPTION:Speaker: Jo Nelson\, Rice University
+LOCATION:Fine Hall 322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fernando Trejos — Euler Systems and Bloch--Kato for the Triple P
+ roduct
+DTSTART:20261112T203000Z
+DTEND:20261112T213000Z
+DTSTAMP:20261112T203000Z
+UID:event19604+0@math.princeton.edu
+DESCRIPTION:Speaker: Fernando Trejos\, Princeton
+LOCATION:IAS - Simonyi Hall 101
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Inhyeok Choi — TBA
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
@@ -263,7 +282,7 @@ DESCRIPTION:Speaker: Shirshendu Ganguly\, Berkeley
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ilias Zadik — TBA
+SUMMARY:Ilias Zadik — The Bayesian Proof Method in Probability Theory
 DTSTART:20261110T200000Z
 DTEND:20261110T210000Z
 DTSTAMP:20261110T200000Z
@@ -290,7 +309,7 @@ DESCRIPTION:Speaker: Gary Guth\, Stanford University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Rockmore — TBA
+SUMMARY:Daniel Rockmore — Addressing Bias in Local Curvature Estimation
 DTSTART:20261123T213000Z
 DTEND:20261123T223000Z
 DTSTAMP:20261123T213000Z
@@ -335,15 +354,6 @@ DTSTAMP:20261110T213000Z
 UID:event19517+0@math.princeton.edu
 DESCRIPTION:Speaker: Donggun Lee\, KIAS
 LOCATION:Fine Hall 322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xin Zhou — Some recent progress of min-max theory
-DTSTART:20261104T200000Z
-DTEND:20261104T210000Z
-DTSTAMP:20261104T200000Z
-UID:event19509+0@math.princeton.edu
-DESCRIPTION:Speaker: Xin Zhou\, Cornell University
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Supravat Sarkar — TBA
@@ -516,7 +526,7 @@ DESCRIPTION:Speaker: Joseph Ayoub\, University of Zurich
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andrew Baker — TBA
+SUMMARY:Andrew Baker — A survey of coherence in Algebraic Topology
 DTSTART:20261112T180000Z
 DTEND:20261112T190000Z
 DTSTAMP:20261112T180000Z
