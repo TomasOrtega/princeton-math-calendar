@@ -33,16 +33,6 @@ DESCRIPTION:Speaker: Inhyeok Choi\, KIAS
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sanath Devalapurkar — 1-dimensional formal groups and variants o
- f the logarithm
-DTSTART:20261105T203000Z
-DTEND:20261105T213000Z
-DTSTAMP:20261105T203000Z
-UID:event19600+0@math.princeton.edu
-DESCRIPTION:Speaker: Sanath Devalapurkar\, IAS
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Vasudha Bharathram — TBA
 DTSTART:20261112T213000Z
 DTEND:20261112T223000Z
@@ -80,16 +70,6 @@ UID:event19596+0@math.princeton.edu
 DESCRIPTION:Speaker: Christian Klevdel\, University of California\, San Di
  ego
 LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Junzhi Huang — Pseudo-Anosov flows\, hyperbolic geometry and the
-  curve graph
-DTSTART:20261105T213000Z
-DTEND:20261105T223000Z
-DTSTAMP:20261105T213000Z
-UID:event19595+0@math.princeton.edu
-DESCRIPTION:Speaker: Junzhi Huang\, Yale
-LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Irit Dinur — High dimensional expansion
@@ -167,17 +147,6 @@ DESCRIPTION:Speaker: Anne Larsen\, MIT
 LOCATION:Fine Hall 322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andrés Laín Sanclemente — Finite-time singularities for the 2D
-  Boussinesq and 2D non-homogeneous Euler equations via vortex layer cascad
- es
-DTSTART:20261105T200000Z
-DTEND:20261105T210000Z
-DTSTAMP:20261105T200000Z
-UID:event19581+0@math.princeton.edu
-DESCRIPTION:Speaker: Andrés Laín Sanclemente\, ICMAT
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zhouli Xu — TBA
 DTSTART:20261203T180000Z
 DTEND:20261203T190000Z
@@ -204,16 +173,6 @@ DTSTAMP:20261207T203000Z
 UID:event19576+0@math.princeton.edu
 DESCRIPTION:Speaker: Daniel Litt\, University of Toronto
 LOCATION:IAS - Simonyi Hall 101
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vladimir Gorchakov — Equivariant formality and the cohomology of
-  subgroups of right-angled Coxeter groups
-DTSTART:20261105T153000Z
-DTEND:20261105T163000Z
-DTSTAMP:20261105T153000Z
-UID:event19574+0@math.princeton.edu
-DESCRIPTION:Speaker: Vladimir Gorchakov\, University of Western Ontario
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nansen Petrosyan — TBA
@@ -448,7 +407,8 @@ DESCRIPTION:Speaker: Matei Coiculescu\, NYU
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dominique Maldague — TBA
+SUMMARY:Dominique Maldague — Cubic Weyl sums via Fourier analysis and th
+ e circle method
 DTSTART:20261109T200000Z
 DTEND:20261109T210000Z
 DTSTAMP:20261109T200000Z
@@ -465,16 +425,6 @@ DTSTAMP:20261111T200000Z
 UID:event19461+0@math.princeton.edu
 DESCRIPTION:Speaker: Melanie Rupflin\, Oxford
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sang-Il Oum — Every tournament of dichromatic number 10 k^2 has 
- a vertex whose out-neighborhood has dichromatic number more than k.
-DTSTART:20261105T200000Z
-DTEND:20261105T210000Z
-DTSTAMP:20261105T200000Z
-UID:event19456+0@math.princeton.edu
-DESCRIPTION:Speaker: Sang-Il Oum\, Institute for Basic Science
-LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anna Erschler — Growth of infinite groups
@@ -505,16 +455,6 @@ UID:event19443+0@math.princeton.edu
 DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
  \, Sorbonne University
 LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Akhil Mathew — The homotopy limit problem for symmetric GW-theor
- y
-DTSTART:20261105T180000Z
-DTEND:20261105T190000Z
-DTSTAMP:20261105T180000Z
-UID:event19422+0@math.princeton.edu
-DESCRIPTION:Speaker: Akhil Mathew\, University of Chicago
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joseph Ayoub — TBA
