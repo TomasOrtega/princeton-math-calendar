@@ -5,6 +5,35 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Chenyang Xu — Stability and Moduli Spaces
+DTSTART:20261113T170000Z
+DTEND:20261113T181000Z
+DTSTAMP:20261113T170000Z
+UID:event19608+0@math.princeton.edu
+DESCRIPTION:Speaker: Chenyang Xu\, Princeton
+LOCATION:Fine Hall Common Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zhenghui Li — C_{st}-conjecture for compactly supported proetale
+  cohomology
+DTSTART:20261214T203000Z
+DTEND:20261214T213000Z
+DTSTAMP:20261214T203000Z
+UID:event19607+0@math.princeton.edu
+DESCRIPTION:Speaker: Zhenghui Li\, IAS
+LOCATION:IAS - Simonyi Hall 101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hyungjun Choi — Nonuniqueness of Solutions to 2D Incompressible 
+ Euler Equations with Unbounded Vorticity
+DTSTART:20261112T200000Z
+DTEND:20261112T210000Z
+DTSTAMP:20261112T200000Z
+UID:event19606+0@math.princeton.edu
+DESCRIPTION:Speaker: Hyungjun Choi\, Princeton
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jo Nelson — Contact encounters in the third dimension
 DTSTART:20261109T171000Z
 DTEND:20261109T182000Z
