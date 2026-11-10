@@ -34,15 +34,6 @@ DESCRIPTION:Speaker: Hyungjun Choi\, Princeton
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jo Nelson — Contact encounters in the third dimension
-DTSTART:20261109T171000Z
-DTEND:20261109T182000Z
-DTSTAMP:20261109T171000Z
-UID:event19605+0@math.princeton.edu
-DESCRIPTION:Speaker: Jo Nelson\, Rice University
-LOCATION:Fine Hall 322
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fernando Trejos — Euler Systems and Bloch--Kato for the Triple P
  roduct
 DTSTART:20261112T203000Z
@@ -69,16 +60,6 @@ DTSTAMP:20261112T213000Z
 UID:event19599+0@math.princeton.edu
 DESCRIPTION:Speaker: Vasudha Bharathram\, Princeton
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manjul Bhargava — The Magical Number 142\,857: A Full-Circle Sto
- ry
-DTSTART:20261110T000000Z
-DTEND:20261110T010000Z
-DTSTAMP:20261110T000000Z
-UID:event19598+0@math.princeton.edu
-DESCRIPTION:Speaker: Manjul Bhargava\, Princeton
-LOCATION:McDonnell Hall A02
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Huy Nguyen — Joint Princeton-Rutgers Seminar on Analysis of Flui
@@ -137,15 +118,6 @@ DTSTAMP:20261117T233000Z
 UID:event19587+0@math.princeton.edu
 DESCRIPTION:Speaker: Chandrashekhar Khare\, UCLA
 LOCATION:McDonnell Hall A01
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shaoyun Bai — Overconvergent Frobenius from quantum connection
-DTSTART:20261109T203000Z
-DTEND:20261109T213000Z
-DTSTAMP:20261109T203000Z
-UID:event19586+0@math.princeton.edu
-DESCRIPTION:Speaker: Shaoyun Bai\, MIT
-LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Gursky — TBA
@@ -315,26 +287,6 @@ DESCRIPTION:Speaker: Ankur Moitra\, MIT
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ben Raphael — Scalable Optimal Transport for Aligning Spatial-Om
- ics Data
-DTSTART:20261109T213000Z
-DTEND:20261109T223000Z
-DTSTAMP:20261109T213000Z
-UID:event19532+0@math.princeton.edu
-DESCRIPTION:Speaker: Ben Raphael\, Princeton
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Andrew Horning — High-order contour-integral methods for strongl
- y continuous semigroups
-DTSTART:20261111T171000Z
-DTEND:20261111T181000Z
-DTSTAMP:20261111T171000Z
-UID:event19527+0@math.princeton.edu
-DESCRIPTION:Speaker: Andrew Horning\, Rensselaer Polytechnic Institute
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Donggun Lee — Hessenberg character
 DTSTART:20261110T213000Z
 DTEND:20261110T223000Z
@@ -433,16 +385,6 @@ DTEND:20261116T210000Z
 DTSTAMP:20261116T200000Z
 UID:event19468+0@math.princeton.edu
 DESCRIPTION:Speaker: Matei Coiculescu\, NYU
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dominique Maldague — Cubic Weyl sums via Fourier analysis and th
- e circle method
-DTSTART:20261109T200000Z
-DTEND:20261109T210000Z
-DTSTAMP:20261109T200000Z
-UID:event19467+0@math.princeton.edu
-DESCRIPTION:Speaker: Dominique Maldague\, UCLA & University of Cambridge
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
