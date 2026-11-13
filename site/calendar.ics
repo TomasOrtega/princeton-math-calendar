@@ -335,7 +335,9 @@ DESCRIPTION:Speaker: Gyujin Oh\, Columbia University
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charles Collot — TBA
+SUMMARY:Charles Collot — Singularities of the critical wave equation and
+  Keller-Segel system formed by the collision of collapsing solitons at a p
+ oint
 DTSTART:20261130T200000Z
 DTEND:20261130T210000Z
 DTSTAMP:20261130T200000Z
