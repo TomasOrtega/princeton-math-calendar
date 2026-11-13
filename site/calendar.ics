@@ -63,42 +63,12 @@ DESCRIPTION:Speaker: Zhenghui Li\, IAS
 LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hyungjun Choi — Nonuniqueness of Solutions to 2D Incompressible 
- Euler Equations with Unbounded Vorticity
-DTSTART:20261112T200000Z
-DTEND:20261112T210000Z
-DTSTAMP:20261112T200000Z
-UID:event19606+0@math.princeton.edu
-DESCRIPTION:Speaker: Hyungjun Choi\, Princeton
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fernando Trejos — Euler Systems and Bloch--Kato for the Triple P
- roduct
-DTSTART:20261112T203000Z
-DTEND:20261112T213000Z
-DTSTAMP:20261112T203000Z
-UID:event19604+0@math.princeton.edu
-DESCRIPTION:Speaker: Fernando Trejos\, Princeton
-LOCATION:IAS - Simonyi Hall 101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Inhyeok Choi — TBA
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
 DTSTAMP:20261201T213000Z
 UID:event19601+0@math.princeton.edu
 DESCRIPTION:Speaker: Inhyeok Choi\, KIAS
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vasudha Bharathram — Faithful linear representations of braid gr
- oups
-DTSTART:20261112T213000Z
-DTEND:20261112T223000Z
-DTSTAMP:20261112T213000Z
-UID:event19599+0@math.princeton.edu
-DESCRIPTION:Speaker: Vasudha Bharathram\, Princeton
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
@@ -346,15 +316,6 @@ DESCRIPTION:Speaker: Saket Shah\, U. Michigan
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eran Nevo — Rigidity\, expansion and polytopes
-DTSTART:20261112T200000Z
-DTEND:20261112T210000Z
-DTSTAMP:20261112T200000Z
-UID:event19495+0@math.princeton.edu
-DESCRIPTION:Speaker: Eran Nevo\, Hebrew University
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Federico Scavia — TBA
 DTSTART:20261123T203000Z
 DTEND:20261123T213000Z
@@ -364,7 +325,8 @@ DESCRIPTION:Speaker: Federico Scavia\, Université Sorbonne Paris Nord
 LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gyujin Oh — TBA
+SUMMARY:Gyujin Oh — $p$-adic radius of convergence and moduli of isocrys
+ tals
 DTSTART:20261116T203000Z
 DTEND:20261116T213000Z
 DTSTAMP:20261116T203000Z
@@ -418,15 +380,6 @@ DTEND:20261119T190000Z
 DTSTAMP:20261119T180000Z
 UID:event19417+0@math.princeton.edu
 DESCRIPTION:Speaker: Joseph Ayoub\, University of Zurich
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Andrew Baker — A survey of coherence in Algebraic Topology
-DTSTART:20261112T180000Z
-DTEND:20261112T190000Z
-DTSTAMP:20261112T180000Z
-UID:event19416+0@math.princeton.edu
-DESCRIPTION:Speaker: Andrew Baker\, University of Glasgow
 LOCATION:
 END:VEVENT
 END:VCALENDAR
