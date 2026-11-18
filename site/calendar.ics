@@ -41,16 +41,6 @@ DESCRIPTION:Speaker: Jeremy Avigad\, Carnegie Mellon
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nathaniel Kingsbury-Neuschotz — Strong Approximation for Markoff
- -Type Surfaces
-DTSTART:20261117T213000Z
-DTEND:20261117T223000Z
-DTSTAMP:20261117T213000Z
-UID:event19611+0@math.princeton.edu
-DESCRIPTION:Speaker: Nathaniel Kingsbury-Neuschotz\, CUNY
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Elizabeth Pratt — Conormal Rank of Subvarieties of Grassmannians
 DTSTART:20261124T200000Z
 DTEND:20261124T210000Z
@@ -138,16 +128,6 @@ DESCRIPTION:Speaker: Robert Burklund\, University of Copenhagen
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chandrashekhar Khare — Chasing (a) Conjecture: Inside the Mind o
- f a Mathematician
-DTSTART:20261117T233000Z
-DTEND:20261118T003000Z
-DTSTAMP:20261117T233000Z
-UID:event19587+0@math.princeton.edu
-DESCRIPTION:Speaker: Chandrashekhar Khare\, UCLA
-LOCATION:McDonnell Hall A01
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Matt Gursky — TBA
 DTSTART:20261204T200000Z
 DTEND:20261204T210000Z
@@ -223,17 +203,6 @@ DESCRIPTION:Speaker: Yiqi Huang\, MIT
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felix Otto — Universality of an experimental pattern: an analyst
- ’s case study
-DTSTART:20261117T210000Z
-DTEND:20261117T220000Z
-DTSTAMP:20261117T210000Z
-UID:event19558+0@math.princeton.edu
-DESCRIPTION:Speaker: Felix Otto\, Minerva Distinguished Visitor\, & Max-Pl
- anck Institute for Mathematics in the Sciences\, Leipzig
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nemanja Draganic — Structure in sparse graphs
 DTSTART:20261119T200000Z
 DTEND:20261119T210000Z
@@ -249,15 +218,6 @@ DTEND:20261201T210000Z
 DTSTAMP:20261201T200000Z
 UID:event19551+0@math.princeton.edu
 DESCRIPTION:Speaker: Tianyi Zheng\, UCSD
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shirshendu Ganguly — Intermittency of the Stochastic Heat Flow
-DTSTART:20261117T200000Z
-DTEND:20261117T210000Z
-DTSTAMP:20261117T200000Z
-UID:event19550+0@math.princeton.edu
-DESCRIPTION:Speaker: Shirshendu Ganguly\, Berkeley
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
@@ -279,7 +239,7 @@ DESCRIPTION:Speaker: Gary Guth\, Stanford University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Rockmore — Addressing Bias in Local Curvature Estimation
+SUMMARY:Daniel Rockmore — On the Algebra of Moving Window Calculations
 DTSTART:20261123T213000Z
 DTEND:20261123T223000Z
 DTSTAMP:20261123T213000Z
@@ -305,16 +265,6 @@ DTEND:20261123T210000Z
 DTSTAMP:20261123T200000Z
 UID:event19505+0@math.princeton.edu
 DESCRIPTION:Speaker: Serban Cicortas\, New York University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Junyan Zhao — Projective moduli of log Calabi-Yau fibrations ove
- r curves
-DTSTART:20261117T200000Z
-DTEND:20261117T210000Z
-DTSTAMP:20261117T200000Z
-UID:event19503+0@math.princeton.edu
-DESCRIPTION:Speaker: Junyan Zhao\, U. Maryland
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
