@@ -100,25 +100,6 @@ DESCRIPTION:Speaker: Christian Klevdel\, University of California\, San Di
 LOCATION:Fine Hall 110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Irit Dinur — High dimensional expansion
-DTSTART:20261118T171000Z
-DTEND:20261118T181000Z
-DTSTAMP:20261118T171000Z
-UID:event19593+0@math.princeton.edu
-DESCRIPTION:Speaker: Irit Dinur\, IAS
-LOCATION:Fine Hall 322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chandrashekhar Khare — Congruences between modular forms and the
-  Bloch-Kato conjecture for their adjoint motives
-DTSTART:20261118T213000Z
-DTEND:20261118T223000Z
-DTSTAMP:20261118T213000Z
-UID:event19592+0@math.princeton.edu
-DESCRIPTION:Speaker: Chandrashekhar Khare\, UCLA
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Robert Burklund — TBA
 DTSTART:20261130T203000Z
 DTEND:20261130T213000Z
@@ -184,25 +165,6 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yun Ho — Tomography as Kernel Regression & Nonparametric Riemann
- ian Empirical Bayes\, and Denoising Measurements on Manifolds
-DTSTART:20261118T171000Z
-DTEND:20261118T181000Z
-DTSTAMP:20261118T171000Z
-UID:event19565+0@math.princeton.edu
-DESCRIPTION:Speaker: Yun Ho\, Columbia & Adam Jaffe\, Columbia
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yiqi Huang — Optimal regularity for the arrival-time equation
-DTSTART:20261118T200000Z
-DTEND:20261118T210000Z
-DTSTAMP:20261118T200000Z
-UID:event19563+0@math.princeton.edu
-DESCRIPTION:Speaker: Yiqi Huang\, MIT
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nemanja Draganic — Structure in sparse graphs
 DTSTART:20261119T200000Z
 DTEND:20261119T210000Z
@@ -230,7 +192,7 @@ DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gary Guth — TBA
+SUMMARY:Gary Guth — Satellites and Telescopes
 DTSTART:20261119T213000Z
 DTEND:20261119T223000Z
 DTSTAMP:20261119T213000Z
