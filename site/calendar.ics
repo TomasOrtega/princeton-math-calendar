@@ -51,16 +51,6 @@ DESCRIPTION:Speaker: Elizabeth Pratt\, Perimeter Institute for Theoretical
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robin Zhang — Finiteness and density problems for (positive) int
- egral points on Mordell–Schinzel surfaces
-DTSTART:20261119T203000Z
-DTEND:20261119T213000Z
-DTSTAMP:20261119T203000Z
-UID:event19609+0@math.princeton.edu
-DESCRIPTION:Speaker: Robin Zhang\, IHES
-LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zhenghui Li — C_{st}-conjecture for compactly supported proetale
   cohomology
 DTSTART:20261214T203000Z
@@ -77,16 +67,6 @@ DTEND:20261201T223000Z
 DTSTAMP:20261201T213000Z
 UID:event19601+0@math.princeton.edu
 DESCRIPTION:Speaker: Inhyeok Choi\, KIAS
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Huy Nguyen — Joint Princeton-Rutgers Seminar on Analysis of Flui
- ds
-DTSTART:20261119T200000Z
-DTEND:20261119T210000Z
-DTSTAMP:20261119T200000Z
-UID:event19597+0@math.princeton.edu
-DESCRIPTION:Speaker: Huy Nguyen\, University of Maryland
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
@@ -136,17 +116,6 @@ DESCRIPTION:Speaker: Zhouli Xu\, UCLA
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fiammetta Battaglia — Measuring Nonrationality in Toric Geometry
-  and Related Settings
-DTSTART:20261119T153000Z
-DTEND:20261119T163000Z
-DTSTAMP:20261119T153000Z
-UID:event19579+0@math.princeton.edu
-DESCRIPTION:Speaker: Fiammetta Battaglia\, Università degli Studi di Fire
- nze
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Daniel Litt — TBA
 DTSTART:20261207T203000Z
 DTEND:20261207T213000Z
@@ -165,15 +134,6 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nemanja Draganic — Structure in sparse graphs
-DTSTART:20261119T200000Z
-DTEND:20261119T210000Z
-DTSTAMP:20261119T200000Z
-UID:event19554+0@math.princeton.edu
-DESCRIPTION:Speaker: Nemanja Draganic\, Bocconi University
-LOCATION:Fine Hall 224
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tianyi Zheng — TBA
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
@@ -189,15 +149,6 @@ DTEND:20261203T223000Z
 DTSTAMP:20261203T213000Z
 UID:event19539+0@math.princeton.edu
 DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gary Guth — Satellites and Telescopes
-DTSTART:20261119T213000Z
-DTEND:20261119T223000Z
-DTSTAMP:20261119T213000Z
-UID:event19538+0@math.princeton.edu
-DESCRIPTION:Speaker: Gary Guth\, Stanford University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
@@ -239,7 +190,7 @@ DESCRIPTION:Speaker: Saket Shah\, U. Michigan
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Federico Scavia — TBA
+SUMMARY:Federico Scavia — Splitting Brauer classes by genus one curves
 DTSTART:20261123T203000Z
 DTEND:20261123T213000Z
 DTSTAMP:20261123T203000Z
@@ -267,14 +218,5 @@ UID:event19445+0@math.princeton.edu
 DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
  \, Sorbonne University
 LOCATION:Fine Hall 110
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joseph Ayoub — The motivic Galois group
-DTSTART:20261119T180000Z
-DTEND:20261119T190000Z
-DTSTAMP:20261119T180000Z
-UID:event19417+0@math.princeton.edu
-DESCRIPTION:Speaker: Joseph Ayoub\, University of Zurich
-LOCATION:
 END:VEVENT
 END:VCALENDAR
