@@ -209,14 +209,4 @@ UID:event19469+0@math.princeton.edu
 DESCRIPTION:Speaker: Charles Collot\, Cergy Paris Université
 LOCATION:Fine Hall 314
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anna Erschler — Growth of infinite groups
-DTSTART:20261120T190000Z
-DTEND:20261120T200000Z
-DTSTAMP:20261120T190000Z
-UID:event19445+0@math.princeton.edu
-DESCRIPTION:Speaker: Anna Erschler\, Minerva Distinguished Visitor & CNRS
- \, Sorbonne University
-LOCATION:Fine Hall 110
-END:VEVENT
 END:VCALENDAR
