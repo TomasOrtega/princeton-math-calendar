@@ -98,7 +98,7 @@ DESCRIPTION:Speaker: Matt Gursky\, Notre Dame
 LOCATION:Fine Hall 214
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anne Larsen — TBA
+SUMMARY:Anne Larsen — Fourier duality for compactified Prym fibrations
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
 DTSTAMP:20261201T213000Z
@@ -152,15 +152,6 @@ DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Daniel Rockmore — On the Algebra of Moving Window Calculations
-DTSTART:20261123T213000Z
-DTEND:20261123T223000Z
-DTSTAMP:20261123T213000Z
-UID:event19534+0@math.princeton.edu
-DESCRIPTION:Speaker: Daniel Rockmore\, Dartmouth
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Supravat Sarkar — Proof of Miyanishi's conjecture on endomorphis
  ms of varieties
 DTSTART:20261124T213000Z
@@ -171,16 +162,6 @@ DESCRIPTION:Speaker: Supravat Sarkar\, Princeton
 LOCATION:Fine Hall 322
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Serban Cicortas — Weak Cosmic Censorship and Critical Collapse i
- n 2+1 Gravity
-DTSTART:20261123T200000Z
-DTEND:20261123T210000Z
-DTSTAMP:20261123T200000Z
-UID:event19505+0@math.princeton.edu
-DESCRIPTION:Speaker: Serban Cicortas\, New York University
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Saket Shah — TBA
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
@@ -188,15 +169,6 @@ DTSTAMP:20261201T200000Z
 UID:event19502+0@math.princeton.edu
 DESCRIPTION:Speaker: Saket Shah\, U. Michigan
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Federico Scavia — Splitting Brauer classes by genus one curves
-DTSTART:20261123T203000Z
-DTEND:20261123T213000Z
-DTSTAMP:20261123T203000Z
-UID:event19488+0@math.princeton.edu
-DESCRIPTION:Speaker: Federico Scavia\, Université Sorbonne Paris Nord
-LOCATION:IAS - Simonyi Hall 101
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charles Collot — Singularities of the critical wave equation and
