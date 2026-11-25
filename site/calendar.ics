@@ -5,6 +5,35 @@ METHOD:PUBLISH
 X-WR-CALNAME:Princeton Math — Speakers & Talks
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:Chao Li — TBA
+DTSTART:20261204T211000Z
+DTEND:20261204T220000Z
+DTSTAMP:20261204T211000Z
+UID:event19619+0@math.princeton.edu
+DESCRIPTION:Speaker: Chao Li\, NYU
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Gursky — A spectral invariant of Poincare-Einstein manif
+ olds and applications to curvature estimates in dimension four.
+DTSTART:20261204T200000Z
+DTEND:20261204T210000Z
+DTSTAMP:20261204T200000Z
+UID:event19618+0@math.princeton.edu
+DESCRIPTION:Speaker: Matthew Gursky\, University of Notre Dame
+LOCATION:Fine Hall 214
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kai Xu — Infinity-harmonic functions in the plane and the invers
+ e mean curvature flow.
+DTSTART:20261202T200000Z
+DTEND:20261202T210000Z
+DTSTAMP:20261202T200000Z
+UID:event19617+0@math.princeton.edu
+DESCRIPTION:Speaker: Kai Xu\, IAS
+LOCATION:Fine Hall 314
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ashay Burungale — TBA
 DTSTART:20261210T203000Z
 DTEND:20261210T213000Z
@@ -79,15 +108,6 @@ DESCRIPTION:Speaker: Robert Burklund\, University of Copenhagen
 LOCATION:Fine Hall 224
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matt Gursky — TBA
-DTSTART:20261204T200000Z
-DTEND:20261204T210000Z
-DTSTAMP:20261204T200000Z
-UID:event19585+0@math.princeton.edu
-DESCRIPTION:Speaker: Matt Gursky\, Notre Dame
-LOCATION:Fine Hall 214
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anne Larsen — Fourier duality for compactified Prym fibrations
 DTSTART:20261201T213000Z
 DTEND:20261201T223000Z
@@ -124,7 +144,8 @@ DESCRIPTION:Speaker: Nansen Petrosyan\, University of Southampton
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tianyi Zheng — TBA
+SUMMARY:Tianyi Zheng — Commensurating actions and the Sierpiński carpet
+  group
 DTSTART:20261201T200000Z
 DTEND:20261201T210000Z
 DTSTAMP:20261201T200000Z
@@ -140,16 +161,6 @@ DTSTAMP:20261203T213000Z
 UID:event19539+0@math.princeton.edu
 DESCRIPTION:Speaker: Qiuyu Ren\, Stanford University
 LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Supravat Sarkar — Proof of Miyanishi's conjecture on endomorphis
- ms of varieties
-DTSTART:20261124T213000Z
-DTEND:20261124T223000Z
-DTSTAMP:20261124T213000Z
-UID:event19506+0@math.princeton.edu
-DESCRIPTION:Speaker: Supravat Sarkar\, Princeton
-LOCATION:Fine Hall 322
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saket Shah — TBA
