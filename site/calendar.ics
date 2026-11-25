@@ -41,16 +41,6 @@ DESCRIPTION:Speaker: Jeremy Avigad\, Carnegie Mellon
 LOCATION:Fine Hall 314
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elizabeth Pratt — Conormal Rank of Subvarieties of Grassmannians
-DTSTART:20261124T200000Z
-DTEND:20261124T210000Z
-DTSTAMP:20261124T200000Z
-UID:event19610+0@math.princeton.edu
-DESCRIPTION:Speaker: Elizabeth Pratt\, Perimeter Institute for Theoretical
-  Physics
-LOCATION:Fine Hall 314
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zhenghui Li — C_{st}-conjecture for compactly supported proetale
   cohomology
 DTSTART:20261214T203000Z
